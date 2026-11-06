@@ -24,7 +24,7 @@ The agent investigates the current situation, proposes or chooses methods, prepa
 
 iEWR calls joint thinking **S3** and delegated work **S4**. These describe participation, not a required sequence of stages.
 
-## What you open
+## Environment components {#what-you-open}
 
 AGENTS.md is the entry point. The 7.0.6 application includes instructions, FPF, MethodPack, and resources for organizing engineering work: navigation, project directories, checks, and continuation materials. Your agent environment supplies file access, commands, computation, and other available tools.
 
