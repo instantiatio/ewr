@@ -2,7 +2,7 @@
 
 Instantiatio is a research programme exploring how human intent becomes a working result through models, activity, and verification. AI-native-first is its central idea: people define what is worth doing, while AI takes on the organization and execution of engineering work.
 
-**Instantiatio** comes from *instantiation*: bringing something into being as a concrete instance. The name reflects the project’s central idea: turning an intention into something that actually exists and works. This may be an application, an engineering design, a document, an organization, or a change to an existing system.
+**Instantiatio** comes from *instantiation*: bringing something into being as a concrete instance. The name reflects this idea: turning an intention into something that actually exists and works. This may be an application, an engineering design, a document, an organization, or a change to an existing system.
 
 ## From intent to an assignment
 
