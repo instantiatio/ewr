@@ -8,9 +8,11 @@ hide:
 
 Instantiatio — исследовательская программа AI-native-first. Человек задаёт цели, оценивает ценность и принимает результат.
 
-**Instantiatio Engineering Work Runtime (iEWR)** — агентное приложение для Codex и других совместимых сред.
+Instantiatio Engineering Work Runtime (iEWR) — агентное приложение для Codex и других совместимых сред.
 
-Codex умеет решать сложные задачи, но человеку приходится самому организовывать его работу. **iEWR берёт организацию на себя.**
+Codex умеет решать сложные задачи, но человеку приходится самому организовывать его работу.
+
+iEWR берёт организацию на себя!
 
 [Попробовать iEWR](/ewr/ru/try/){ .md-button .md-button--primary } · [Скачать 7.0.6 Eternal Alpha](https://github.com/instantiatio/iEWR/releases/download/7.0.6/iEWR-7.0.6-Eternal-Alpha.zip)
 
