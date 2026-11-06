@@ -35,11 +35,11 @@ Ask “What can you do?”, “How should I work with you?”, or request an exp
 
 ## What happens next {#work}
 
-iEWR identifies the engineering work needed for the result, selects or develops suitable methods, and organizes their use. When the task is sufficiently clear, the agent starts work. It helps clarify material gaps and brings decisions that need your input back to you.
+You do not need to plan the sequence of actions in advance, write instructions for every stage, or build your own agent loops. Describe the task — iEWR will organize the work needed and adapt it as the project develops.
 
-The way of working changes as facts emerge. A plan, an investigation, or a trial may be useful for the task; you do not have to design the agent's process in advance. Your clarifications and corrections steer what happens next.
+When the task is sufficiently clear, the agent starts work. It helps clarify material gaps and brings decisions that need your input back to you. New facts, the results of checks, and your clarifications guide the next steps.
 
-You retain the goal, significant decisions, the bounds of independent action, and acceptance of the result. The agent organizes and performs authorized work, checks the outcome, and preserves the basis for continuation.
+You retain the goal, significant decisions, the bounds of independent action, and acceptance of the result. The agent performs authorized work, checks the outcome, and preserves the basis for continuation.
 
 ## Materials and continuation {#continuation}
 

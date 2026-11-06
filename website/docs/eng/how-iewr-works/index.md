@@ -2,13 +2,15 @@
 
 **iEWR — an AGENTS.md-based agent-native application.** It is not a separate AI model or an agent platform. It runs using the capabilities of Codex or another compatible agent environment.
 
-You specify the result, its purpose, and the bounds of independent action. AI independently organizes and performs the engineering work: the agent determines what is needed, selects methods, executes the assignment, and checks the outcome.
+Work in iEWR is not tied to a single predefined process. The agent considers the goal, the system’s current state, and the results obtained to determine what needs to happen next. It uses professional methods, adapting them or creating new ones when needed.
+
+You specify the result, its purpose, and the bounds of independent action. The agent carries out the work needed and checks the outcome.
 
 It supports software development and change, engineering concepts and solutions, research, comparison of alternatives, and preparation of reasoned decisions. [Try iEWR](/ewr/eng/try/) covers setup and getting started on your own task.
 
 ## You can begin with an unfinished idea
 
-You do not need to design the agent's workflow or choose its methods. Describe the result you want, even approximately, or ask for help understanding the problem. iEWR can clarify the intended use, identify the work needed, obtain a suitable method, carry out the assignment, and check the result.
+Describe the result you want, even approximately, or ask for help understanding the problem. iEWR can help clarify the result’s intended use and the conditions that matter for the work.
 
 You can also ask it to explain its own capabilities, organization, or next steps. [Try iEWR](/ewr/eng/try/) shows ordinary first messages and how to continue work; [Applications](/ewr/eng/applications/) describes the wider range of work.
 
