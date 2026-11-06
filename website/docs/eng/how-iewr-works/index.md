@@ -2,7 +2,9 @@
 
 **iEWR — an AGENTS.md-based agent-native application.** It is not a separate AI model or an agent platform. It runs using the capabilities of Codex or another compatible agent environment.
 
-Work in iEWR is not tied to a single predefined process. The agent considers the goal, the system’s current state, and the results obtained to determine what needs to happen next. It uses professional methods, adapting them or creating new ones when needed.
+The work is organized around **System Formation**: the goal, intended use, and current state of the system being built determine the work needed. A predefined process does not replace that judgment. The agent recovers the engineering context — current requirements, decisions, dependencies between parts of the system, and material unknowns — and uses professional methods and check results to determine the next contribution. New findings may call for a different method, a revised plan, or dropping a task that is no longer needed.
+
+Codex can plan, select methods, and check results without iEWR. iEWR does not add intelligence to it: it establishes a systematic way to organize engineering activity through instructions, methods, and project context. The agent’s existing capabilities serve both to carry out the work and to determine and reconsider what work is needed.
 
 You specify the result, its purpose, and the bounds of independent action. The agent carries out the work needed and checks the outcome.
 

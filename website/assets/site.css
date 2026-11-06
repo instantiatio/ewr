@@ -192,3 +192,7 @@ label[role=button]:focus-visible { outline:3px solid #2879e7; outline-offset:5px
 @media(max-width:680px) {
   .home-content .hero-support { column-gap:0; }
 }
+
+/* The application explanation is one group in the existing hero grid. */
+.home-content .hero-application { min-width:0; }
+.home-content .hero-application p + p { margin-top:15px; }

@@ -35,7 +35,8 @@ def on_page_content(html, *, page, config, files):
         heading.append(permalink)
     paras = intro.find_all('p', recursive=False)
     actions = paras[-1].extract(); actions['class'] = ['hero-actions']
-    body = ''.join(str(p) for p in paras[:-1])
+    # Keep the multi-paragraph application explanation in its existing column.
+    body = str(paras[0]) + '<div class="hero-application">' + ''.join(str(p) for p in paras[1:-1]) + '</div>'
     label = ('Instantiatio / Research programme' if config.theme['language'] == 'en'
              else 'Instantiatio / Исследовательская программа')
     hero = f'''<section class="hero"><div class="container hero-inner">
