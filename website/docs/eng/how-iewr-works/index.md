@@ -8,7 +8,7 @@
 
 The work is organized around **System Formation**: the goal, intended use, and current state of the system being built determine the work needed. A predefined process does not replace that judgment. The agent recovers the engineering context — current requirements, decisions, dependencies between parts of the system, and material unknowns — and uses professional methods and check results to determine the next contribution. New findings may call for a different method, a revised plan, or dropping a task that is no longer needed.
 
-## Why Codex needs EWR {#why-codex-needs-iewr}
+## What iEWR contributes to Codex’s work {#why-codex-needs-iewr}
 
 [Read “Why Codex needs EWR” →](/ewr/eng/foundations/why-codex-needs-iewr/){ .section-action }
 
