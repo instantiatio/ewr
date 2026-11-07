@@ -68,6 +68,6 @@ The application is a local demonstration with synthetic data and manual payment 
 
 [Report in English (PDF)](/ewr/assets/geo-crm/1.4.0-usd/REPORT_EN.pdf)
 
-The report documents the work, results, checks, source edition, and reproduction conditions, with screenshots.
+The report documents the work, results, checks, and source edition. To rerun the commands in the report, you need the full project package with the source code, tests, and calculation-check script. The site provides the report, guides, and screenshots. The full package is not available here.
 
 [Cases & Experiments](/ewr/eng/cases/) · [Try iEWR](/ewr/eng/try/) · [Русский](/ewr/ru/cases/geo-crm/)

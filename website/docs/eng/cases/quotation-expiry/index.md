@@ -35,7 +35,9 @@ python3 project/artifacts/first-experiment/check_quotes.py project/source/first-
 python3 -m unittest discover -s project/artifacts/first-experiment -v
 ```
 
-The package contains the program, tests, input, expected output, and recorded checks. This runs the produced tool.
+These commands run the tool already delivered. The package also includes the program, tests, input, expected output, and recorded checks.
+
+To repeat the agent experiment, open a fresh copy of iEWR 7.0.6 in a new Codex session and submit the original assignment from the package, `ASSIGNMENT_EN.txt`. The input data is included in the assignment. The package also contains the Russian translation, `ASSIGNMENT_RU.txt`.
 
 ## Recorded conditions
 
