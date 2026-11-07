@@ -8,6 +8,12 @@ From a local CRM assignment to sales, stock, expense requests, and liquidity mod
 
 [Read the GEO CRM case and view the screenshots](/ewr/eng/cases/geo-crm/).
 
+## Building and launching the Instantiatio website
+
+The project owner set the task and chose the visual style. The agent in iEWR built the bilingual website, automated publishing, and released fixes after an independent review.
+
+[Read the website case study](/ewr/eng/cases/instantiatio-website/).
+
 ## From a business rule to a checked tool
 
 A short assignment to check sales quotation expiry dates. In a fresh iEWR 7.0.6 workspace, the agent independently produced a program, five tests, a processed CSV, and run instructions. Checks covered the final valid day, invalid dates, and preservation of input files.

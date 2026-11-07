@@ -17,6 +17,7 @@ nav:
   - Cases & Experiments:
       - cases/index.md
       - GEO CRM: cases/geo-crm/index.md
+      - Instantiatio website: cases/instantiatio-website/index.md
       - Quotation expiry: cases/quotation-expiry/index.md
   - Foundations:
       - foundations/index.md

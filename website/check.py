@@ -12,7 +12,8 @@ import markdown
 
 ROOT = Path(__file__).resolve().parent
 BASE = 'https://instantiatio.github.io/ewr/'
-PATHS = ('', 'try/', 'try/advanced/', 'applications/', 'cases/', 'cases/geo-crm/', 'cases/quotation-expiry/', 'foundations/',
+PATHS = ('', 'try/', 'try/advanced/', 'applications/', 'cases/', 'cases/geo-crm/',
+         'cases/instantiatio-website/', 'cases/quotation-expiry/', 'foundations/',
          'foundations/instantiatio/', 'foundations/ai-native-first/',
          'foundations/system-formation/', 'foundations/ewr/',
          'foundations/methods/', 'foundations/why-codex-needs-iewr/', 'how-iewr-works/', 'about/')
