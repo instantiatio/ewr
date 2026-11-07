@@ -7,6 +7,7 @@ The ideas behind Instantiatio and iEWR are available here for deeper reading. Yo
 - [System Formation](/ewr/eng/foundations/system-formation/) — how the system's purpose and state determine the necessary work.
 - [Engineering Work Runtime](/ewr/eng/foundations/ewr/) — the environment supporting organization, execution, checking, and continuation.
 - [FPF, Dynamic Method Generation, and MethodPack](/ewr/eng/foundations/methods/) — obtaining methods and preserving useful experience.
+- [Why Codex needs iEWR](/ewr/eng/foundations/why-codex-needs-iewr/) — how iEWR organizes the agent’s work using methods and project context.
 
 For the concrete 7.0.6 configuration, see [How iEWR works](/ewr/eng/how-iewr-works/).
 

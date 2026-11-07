@@ -56,7 +56,8 @@ body { background:var(--paper); color:var(--ink); font:16px/1.65 var(--sans); }
 .home-content .section-body > ul { list-style:none; margin:0; padding:0; }
 .home-content .section-body > ul > li { margin:0; }
 .home-content .section-body > p:last-child:has(.section-action) { margin-top:24px; }
-.home-content .section-action { display:inline-block; padding-block:4px; font-weight:650; }
+.home-content .section-action,
+.prose .section-action { display:inline-block; padding-block:4px; font-weight:650; }
 .md-typeset .home-section img { margin:0; }
 .prose h1 { color:var(--ink); font-weight:650; }
 .prose h2 { border-top:2px solid var(--navy); }

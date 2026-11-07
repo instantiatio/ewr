@@ -90,7 +90,9 @@ with file paths and grounds, and what remains unreviewed.
 Do not run or fix anything.
 ```
 
-Automated analysis can reduce risk, but it does not guarantee safety.
+You can also use this method to review third-party agent applications and skills.
+
+Important! Automated analysis can reduce risk, but it does not guarantee safety.
 
 ## Next {#next}
 
