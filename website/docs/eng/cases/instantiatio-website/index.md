@@ -1,6 +1,6 @@
 # Building and launching the Instantiatio website
 
-The goal was to build a bilingual Instantiatio website where visitors could quickly understand what iEWR is and try it for themselves. The source material included posts from a lab’s Telegram channel.
+The goal was to build a bilingual [Instantiatio](/ewr/eng/) website where visitors could quickly understand what iEWR is and try it for themselves. The source material included posts from a lab’s Telegram channel.
 
 **The project owner set the task and chose the visual style.**
 
