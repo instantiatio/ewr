@@ -12,7 +12,7 @@ Instantiatio Engineering Work Runtime (iEWR) is an agent-native application for 
 
 iEWR frees you from micromanaging AI. It organizes engineering work independently, drawing on professional methods.
 
-You steer the outcome without having to manage the agent.
+Stop managing AI — take charge of the outcome!
 
 [Try iEWR](/ewr/eng/try/){ .md-button .md-button--primary } · [Download 7.0.6 Eternal Alpha](https://github.com/instantiatio/iEWR/releases/download/7.0.6/iEWR-7.0.6-Eternal-Alpha.zip)
 
