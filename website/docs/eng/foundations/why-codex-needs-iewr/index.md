@@ -1,4 +1,4 @@
-# Why Codex needs iEWR
+# Why Codex needs EWR {#why-codex-needs-iewr}
 
 *From `AGENTS.md` to an engineering system that organizes its own work*
 
@@ -10,9 +10,9 @@ Codex can already perform complex engineering work. When you organize that work 
 
 **EWR offers a simpler way to work. You define the result you need, and AI organizes the work to get there.** It draws on engineering context, which may range from a few sentences to thousands of requirements. AI determines what work is needed, chooses and applies methods, checks the results, and adjusts its next steps.
 
-iEWR implements the EWR approach as an agent-native application with `AGENTS.md` as its entry point. It runs using Codex or another compatible environment. Instructions, engineering methods, and project context help the agent determine which tasks are needed and carry them out.
+EWR extends the idea behind `AGENTS.md` into a way for Codex to organize engineering work. Instructions, engineering methods, and project context help the agent determine which tasks are needed and carry them out.
 
-iEWR puts Codex’s existing abilities to work organizing engineering activity itself, taking much of that work off your hands.
+EWR puts Codex’s existing abilities to work organizing engineering activity itself, taking much of that work off your hands.
 
 ## 1. Why a capable agent needs `AGENTS.md`
 
@@ -46,7 +46,7 @@ Suppose the assignment is “A new customer can’t send a request without a con
 
 If submitting the form starts order fulfilment, and a contract is required to fulfil an order, that change introduces another problem. The customer needs a way to contact the company without starting an order without a contract. Perhaps there is already a suitable form and the navigation needs fixing. Perhaps the product owner needs to decide how enquiries from prospective customers should be handled.
 
-Codex can spot this without iEWR. EWR makes it part of how engineering work is organized. The agent considers the target system, its use and current state, the decisions already made, and what it needs to know before acting.
+Codex can spot this without EWR. EWR makes it part of how engineering work is organized. The agent considers the target system, its use and current state, the decisions already made, and what it needs to know before acting.
 
 In practice, the agent first works out what result is needed and what already exists. The next contribution could be an investigation, a change to the system, a decision, or a check of the result.
 
@@ -72,17 +72,17 @@ If work is held up by a missing method, the agent can find, adapt, or develop on
 
 **How the work is organized can itself be engineered.** This is the connection to Lem’s epigraph. A system gains room to act when it can change how it is organized to meet its goal. Material changes need grounds, verification, and the appropriate human authorization.
 
-## 6. So why does Codex need iEWR?
+## 6. So why does Codex need EWR? {#6-so-why-does-codex-need-iewr}
 
 Codex can solve complex engineering tasks independently. `AGENTS.md` supplies standing rules, skills carry reusable expertise and methods, and loop engineering coordinates repeated execution. Each helps the agent, while leaving some of the design of its work to the person using it.
 
-**iEWR takes on much of the work of organizing the agent.** You specify the intent, constraints, and criteria for the result. AI determines the work needed, finds and combines suitable methods, organizes execution, and adjusts it in light of new information.
+**EWR offers a broader approach that makes the work simpler for the person using it.** You specify the intent, constraints, and criteria for the result. AI determines the work needed, finds and combines suitable methods, organizes execution, and adjusts it in light of new information.
 
 The agent can revise what work it will do, switch methods, drop tasks that no longer serve a purpose, and improve its working environment when authorized. It can use existing instructions, skills, and loops as the situation calls for them.
 
 EWR shifts much of the work of organizing AI to AI itself. **Your engineering judgment remains essential.** You set goals, understand the constraints that matter, assess decisions, and accept the result. Designing agent workflows is optional.
 
-> You decide what result you need and where the agent may act independently. iEWR lets Codex determine the work needed, choose methods, and change its approach as results come in.
+> You decide what result you need and where the agent may act independently. EWR lets Codex determine the work needed, choose methods, and change its approach as results come in.
 
 How much this approach affects cost and quality relative to other ways of organizing Codex remains to be established on comparable practical tasks.
 

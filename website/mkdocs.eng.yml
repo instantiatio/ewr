@@ -25,5 +25,5 @@ nav:
       - System Formation: foundations/system-formation/index.md
       - Engineering Work Runtime: foundations/ewr/index.md
       - FPF, DMG & MethodPack: foundations/methods/index.md
-      - Why Codex needs iEWR: foundations/why-codex-needs-iewr/index.md
+      - Why Codex needs EWR: foundations/why-codex-needs-iewr/index.md
   - About: about/index.md

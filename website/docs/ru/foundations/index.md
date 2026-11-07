@@ -7,7 +7,7 @@
 - [System Formation](/ewr/ru/foundations/system-formation/) — как назначение и состояние системы определяют необходимую работу.
 - [Engineering Work Runtime](/ewr/ru/foundations/ewr/) — среда организации, исполнения, проверки и продолжения деятельности.
 - [FPF, Dynamic Method Generation и MethodPack](/ewr/ru/foundations/methods/) — получение методов и сохранение полезного опыта.
-- [Зачем Codex нужен iEWR](/ewr/ru/foundations/why-codex-needs-iewr/) — как iEWR помогает организовать работу агента с опорой на методы и контекст проекта.
+- [Зачем Codex нужен EWR](/ewr/ru/foundations/why-codex-needs-iewr/) — как EWR помогает организовать работу агента с опорой на методы и контекст проекта.
 
 Конкретная конфигурация 7.0.6 описана в разделе [«Как устроена iEWR»](/ewr/ru/how-iewr-works/).
 
