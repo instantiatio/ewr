@@ -74,11 +74,11 @@ Results can include alternatives, criteria, calculations, scenarios, and a recom
 
 - **Method engineering.** Ways of doing the work, selection conditions, variants, and check results. The agent can find methods in professional sources, including the internet, reuse them, adapt them, and construct missing methods. Useful methods are retained in MethodPack with their grounds and conditions of use.
 
-- **Domain Principle Frameworks — DPFs.** A connected system of patterns for recurring domain problems. FPF is already connected in 7.0.6: a separate DPF assignment invokes the original canonical method and assessment of both patterns and the package. Accumulating ordinary methods in MethodPack does not by itself produce a DPF.
+- **Domain Principle Frameworks — DPFs.** A connected system of patterns for recurring domain problems. FPF is already connected in 7.0.8: a separate DPF assignment invokes the original canonical method and assessment of both patterns and the package. Accumulating ordinary methods in MethodPack does not by itself produce a DPF.
 
 - **Guidance and learning materials.** Guides, procedures, examples, exercises, and self-check tools based on sources and practical experience. Content applicability and learning outcomes are checked for the material’s intended use.
 
-**AI is not limited to the starting repertoire of methods.** DMG covers finding, reusing, adapting, and constructing ways of working using FPF and the domain sources needed. You do not have to commission every new method separately. See [FPF, DMG & MethodPack](/ewr/eng/foundations/methods/) and [DPF creation in 7.0.6](https://github.com/instantiatio/iEWR/blob/7.0.6/docs/DPF_CREATION.md).
+**AI is not limited to the starting repertoire of methods.** DMG covers finding, reusing, adapting, and constructing ways of working using FPF and the domain sources needed. You do not have to commission every new method separately. See [FPF, DMG & MethodPack](/ewr/eng/foundations/methods/) and [DPF creation in 7.0.8](https://github.com/instantiatio/iEWR/blob/7.0.8/docs/DPF_CREATION.md).
 
 ## Physical products and operations {#physical-engineering}
 
@@ -102,7 +102,7 @@ Results can include alternatives, criteria, calculations, scenarios, and a recom
 
 **An assignment:** “Investigate this difficulty in iEWR’s own behavior, improve the way it works, and check the change.”
 
-iEWR itself can be the subject: instructions, navigation, methods, architecture, and supporting tools. You set the goal and scope; the agent investigates, changes, and checks the environment using its own engineering means. A project method can also improve during an ordinary assignment. Changing the environment itself starts with a human instruction; see the [7.0.6 self-development procedure](https://github.com/instantiatio/iEWR/blob/7.0.6/docs/SELF_DEVELOPMENT.md).
+iEWR itself can be the subject: instructions, navigation, methods, architecture, and supporting tools. You set the goal and scope; the agent investigates, changes, and checks the environment using its own engineering means. A project method can also improve during an ordinary assignment. Changing the environment itself starts with a human instruction; see the [7.0.8 self-development procedure](https://github.com/instantiatio/iEWR/blob/7.0.8/docs/SELF_DEVELOPMENT.md).
 
 ## Context that supports continuation {#continuation}
 

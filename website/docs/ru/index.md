@@ -14,7 +14,7 @@ iEWR избавляет человека от микроменеджмента A
 
 Хватит управлять AI — управляйте результатом!
 
-[Попробовать iEWR](/ewr/ru/try/){ .md-button .md-button--primary } · [Скачать 7.0.6 Eternal Alpha](https://github.com/instantiatio/iEWR/releases/download/7.0.6/iEWR-7.0.6-Eternal-Alpha.zip)
+[Попробовать iEWR](/ewr/ru/try/){ .md-button .md-button--primary } · [Скачать 7.0.8 Eternal Alpha](https://github.com/instantiatio/iEWR/releases/download/7.0.8/iEWR-7.0.8-Eternal-Alpha.zip)
 
 ## Начните с задачи или вопроса
 

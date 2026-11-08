@@ -2,7 +2,7 @@
 
 ## TL;DR {#quick-start}
 
-1. [Download iEWR 7.0.6](https://github.com/instantiatio/iEWR/releases/download/7.0.6/iEWR-7.0.6-Eternal-Alpha.zip) and extract the archive.
+1. [Download iEWR 7.0.8](https://github.com/instantiatio/iEWR/releases/download/7.0.8/iEWR-7.0.8-Eternal-Alpha.zip) and extract the archive.
 2. Open the folder containing `AGENTS.md` as a project in Codex.
 3. In a new chat, describe your task or ask where to start.
 4. Check the result. Discuss revisions and the next step.
@@ -11,9 +11,9 @@ Learn iEWR through a task of your own. You do not need to study its internals fi
 
 ## Download and open the project {#download}
 
-[Download iEWR 7.0.6 Eternal Alpha ZIP](https://github.com/instantiatio/iEWR/releases/download/7.0.6/iEWR-7.0.6-Eternal-Alpha.zip) · [Release and checksum](https://github.com/instantiatio/iEWR/releases/tag/7.0.6)
+[Download iEWR 7.0.8 Eternal Alpha ZIP](https://github.com/instantiatio/iEWR/releases/download/7.0.8/iEWR-7.0.8-Eternal-Alpha.zip) · [Release notes](https://github.com/instantiatio/iEWR/releases/tag/7.0.8) · [SHA-256 checksum](https://github.com/instantiatio/iEWR/releases/download/7.0.8/iEWR-7.0.8-Eternal-Alpha.zip.sha256)
 
-Extract the archive into a separate folder for your project. You can rename it after the project. Its root should contain `AGENTS.md`, `START.txt`, `methods/`, and `project/`.
+Extract the archive. You can rename the `iEWR-7.0.8-Eternal-Alpha` folder to match your project. Its root contains `README.md`, `AGENTS.md`, `methods/`, and `project/`.
 
 Open **this folder as a project in Codex** and start a new chat there. `AGENTS.md` is the entry point that connects the agent to iEWR's instructions and resources.
 

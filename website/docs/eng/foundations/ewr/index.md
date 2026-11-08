@@ -23,7 +23,7 @@ The primary user has an intention and domain understanding: enough to judge the 
 
 The person sets the assignment, value, and delegation bounds. EWR connects these contributions in the actual working configuration. Existing agents and tools may provide much of the necessary support; extra mechanisms are added when they supply a needed property.
 
-In iEWR 7.0.6, the methodological combination is **Instructions + FPF + MethodPack**. [DMG](/ewr/eng/foundations/methods/) obtains a suitable way of working through search, reuse, adaptation, or construction. Domain frameworks, professional literature, standards, and skills can supply useful methods.
+In iEWR 7.0.8, the methodological combination is **Instructions + FPF + MethodPack**. [DMG](/ewr/eng/foundations/methods/) obtains a suitable way of working through search, reuse, adaptation, or construction. Domain frameworks, professional literature, standards, and skills can supply useful methods.
 
 ## Work takes shape during execution
 

@@ -8,23 +8,23 @@ The programme connects the [nine AI-native-first principles](/ewr/eng/foundation
 
 iEWR is the programme's practical implementation: an application for organizing and performing engineering work with AI. [How iEWR works](/ewr/eng/how-iewr-works/) explains its structure and execution environment.
 
-This site describes **iEWR 7.0.6 Eternal Alpha**. [Try iEWR](/ewr/eng/try/) is the practical entry; [Cases & Experiments](/ewr/eng/cases/) connects work to results and checks. Foundations provides optional full conceptual materials.
+This site describes **iEWR 7.0.8 Eternal Alpha**. [Try iEWR](/ewr/eng/try/) is the practical entry; [Cases & Experiments](/ewr/eng/cases/) connects work to results and checks. Foundations provides optional full conceptual materials.
 
 ## Authorship and sources
 
-The conceptual materials come from the Instantiatio programme’s research texts. Descriptions of the working environment use the iEWR repository and its 7.0.6 documentation. Case materials identify the version, assignment, and evidence used.
+The conceptual materials come from the Instantiatio programme’s research texts. Descriptions of the working environment use the iEWR repository and its 7.0.8 documentation. Case materials identify the version, assignment, and evidence used.
 
 iEWR is developed by **Instantiatio EWR Contributors**; contributor credits and source provenance are preserved in the repository.
 
 **First Principles Framework (FPF) is by Anatoly Levenchuk**, with original sources and author notices retained in the distribution.
 
-Applied-method sources and their authors are recorded in [ORIGINS.json](https://github.com/instantiatio/iEWR/blob/7.0.6/ORIGINS.json) and [method source notices](https://github.com/instantiatio/iEWR/blob/7.0.6/docs/METHOD_SOURCE_NOTICES.md).
+Applied-method sources and their authors are recorded in [ORIGINS.json](https://github.com/instantiatio/iEWR/blob/7.0.8/ORIGINS.json) and [method source notices](https://github.com/instantiatio/iEWR/blob/7.0.8/docs/METHOD_SOURCE_NOTICES.md).
 
 ## Licenses
 
-iEWR's own distributed materials use the [MIT License](https://github.com/instantiatio/iEWR/blob/7.0.6/LICENSE). Original FPF content is distributed under [CC BY 4.0](https://github.com/instantiatio/iEWR/blob/7.0.6/external-sources/fpf/LICENSE); third-party materials retain their [separate terms](https://github.com/instantiatio/iEWR/blob/7.0.6/external-sources/fpf/LICENSING.md). The exact connected FPF edition and provenance are recorded in [SOURCE.json](https://github.com/instantiatio/iEWR/blob/7.0.6/external-sources/fpf/SOURCE.json).
+iEWR's own distributed materials use the [MIT License](https://github.com/instantiatio/iEWR/blob/7.0.8/LICENSE). Original FPF content is distributed under [CC BY 4.0](https://github.com/instantiatio/iEWR/blob/7.0.8/external-sources/fpf/LICENSE); third-party materials retain their [separate terms](https://github.com/instantiatio/iEWR/blob/7.0.8/external-sources/fpf/LICENSING.md). The exact connected FPF edition and provenance are recorded in [SOURCE.json](https://github.com/instantiatio/iEWR/blob/7.0.8/external-sources/fpf/SOURCE.json).
 
-The 7.0.6 [README](https://github.com/instantiatio/iEWR/blob/7.0.6/README.md) credits “Instantiatio EWR contributors”, while its LICENSE names “Instantiatio DPF contributors”. These original notices are preserved.
+The 7.0.8 [README](https://github.com/instantiatio/iEWR/blob/7.0.8/README.md) credits “Instantiatio EWR contributors”, while its LICENSE names “Instantiatio DPF contributors”. These original notices are preserved.
 
 ## Website analytics
 
@@ -33,7 +33,7 @@ We use Plausible to measure visits and clicks on outbound links and downloadable
 ## Project links
 
 - [iEWR on GitHub](https://github.com/instantiatio/iEWR)
-- [iEWR 7.0.6 release](https://github.com/instantiatio/iEWR/releases/tag/7.0.6)
+- [iEWR 7.0.8 release](https://github.com/instantiatio/iEWR/releases/tag/7.0.8)
 - [GitHub Issues](https://github.com/instantiatio/iEWR/issues) for questions and reproducible findings
 
 [Home](/ewr/eng/) · [Try iEWR](/ewr/eng/try/) · [Русский](/ewr/ru/about/)

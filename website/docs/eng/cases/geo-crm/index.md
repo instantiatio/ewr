@@ -62,7 +62,7 @@ Finance guides, in English:
 
 ## Checks and report
 
-The new report records checks of **GEO CRM 1.4.0-demo**: **36 tests**, working scenarios, profile migration, demonstration-data installation, and a full restart preserving 19 tables. It independently matches **182 daily rows, 26 weekly aggregates, and 91 daily shifts after funding**. The case began in an **iEWR 7.0.0** project. The website's current iEWR release is 7.0.6; this case retains its actual project version.
+The new report records checks of **GEO CRM 1.4.0-demo**: **36 tests**, working scenarios, profile migration, demonstration-data installation, and a full restart preserving 19 tables. It independently matches **182 daily rows, 26 weekly aggregates, and 91 daily shifts after funding**. The case began in an **iEWR 7.0.0** project. The website's current iEWR release is 7.0.8; this case retains its actual project version.
 
 The application is a local demonstration with synthetic data and manual payment recording. The report identifies the checked source and conditions, and records remaining issues in cross-module access, return-reason history, and self-approval policy.
 

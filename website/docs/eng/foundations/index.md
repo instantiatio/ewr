@@ -9,6 +9,6 @@ The ideas behind Instantiatio and iEWR are available here for deeper reading. Yo
 - [FPF, Dynamic Method Generation, and MethodPack](/ewr/eng/foundations/methods/) — obtaining methods and preserving useful experience.
 - [Why Codex needs EWR](/ewr/eng/foundations/why-codex-needs-iewr/) — how EWR organizes the agent’s work using methods and project context.
 
-For the concrete 7.0.6 configuration, see [How iEWR works](/ewr/eng/how-iewr-works/).
+For the concrete 7.0.8 configuration, see [How iEWR works](/ewr/eng/how-iewr-works/).
 
 [Home](/ewr/eng/) · [Русский](/ewr/ru/foundations/)

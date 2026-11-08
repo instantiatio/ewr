@@ -14,7 +14,7 @@ iEWR frees you from micromanaging AI. It organizes engineering work independentl
 
 Stop managing AI — take charge of the outcome!
 
-[Try iEWR](/ewr/eng/try/){ .md-button .md-button--primary } · [Download 7.0.6 Eternal Alpha](https://github.com/instantiatio/iEWR/releases/download/7.0.6/iEWR-7.0.6-Eternal-Alpha.zip)
+[Try iEWR](/ewr/eng/try/){ .md-button .md-button--primary } · [Download 7.0.8 Eternal Alpha](https://github.com/instantiatio/iEWR/releases/download/7.0.8/iEWR-7.0.8-Eternal-Alpha.zip)
 
 ## Start with a task or a question
 

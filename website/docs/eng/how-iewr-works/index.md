@@ -34,7 +34,7 @@ iEWR calls joint thinking **S3** and delegated work **S4**. These describe parti
 
 ## Environment components {#what-you-open}
 
-AGENTS.md is the entry point. The 7.0.6 application includes instructions, FPF, MethodPack, and resources for organizing engineering work: navigation, project directories, checks, and continuation materials. Your agent environment supplies file access, commands, computation, and other available tools.
+AGENTS.md is the entry point. The 7.0.8 application includes instructions, FPF, MethodPack, and resources for organizing engineering work: navigation, project directories, checks, and continuation materials. Your agent environment supplies file access, commands, computation, and other available tools.
 
 | Part | Role |
 |---|---|
@@ -66,7 +66,9 @@ For a new method choice, the agent checks for a sufficient FPF contribution, the
 
 The supplied repertoire is a starting point. Within the assignment, the agent can obtain missing knowledge from professional sources, including the internet through available tools, adapt a suitable method, or construct and check what is missing. You do not need to commission each method separately. Useful contributions are retained in MethodPack for later tasks with their conditions and checking grounds.
 
-The supplied MethodPack contains 37 candidate descriptions. Their purpose, conditions, and checking grounds determine their use. See the [method catalog](https://github.com/instantiatio/iEWR/blob/7.0.6/docs/METHOD_CATALOG.md) and [FPF, DMG, and MethodPack](/ewr/eng/foundations/methods/).
+The supplied MethodPack contains 37 candidate descriptions. Their purpose, conditions, and checking grounds determine their use. See the [method catalog](https://github.com/instantiatio/iEWR/blob/7.0.8/docs/METHOD_CATALOG.md) and [FPF, DMG, and MethodPack](/ewr/eng/foundations/methods/).
+
+The agent keeps a [method-use log](https://github.com/instantiatio/iEWR/blob/7.0.8/docs/METHOD_USE_LOG.md) in `project/artifacts/method-use-log.md`. The default is one line per distinct application of an FPF or MethodPack method. You can ask the agent for a more detailed entry.
 
 ## Context that continues with the project
 
@@ -80,6 +82,6 @@ The project folder carries this basis between sessions. In the [GEO CRM case](/e
 
 The agent compares the actual result with the assigned use and criteria. A discovered problem can return the work to a requirement, assumption, method, implementation, or check. Passing tests is evidence about the properties those tests observe.
 
-The actual configuration determines available tools and access. Instructions guide the agent; technical protection is supplied by the ADE and connected systems where needed. [STATUS 7.0.6](https://github.com/instantiatio/iEWR/blob/7.0.6/STATUS.md) records release verification, and [Cases & Experiments](/ewr/eng/cases/) provides a checked application.
+The actual configuration determines available tools and access. Instructions guide the agent; technical protection is supplied by the ADE and connected systems where needed. [STATUS 7.0.8](https://github.com/instantiatio/iEWR/blob/7.0.8/STATUS.md) records release verification, and [Cases & Experiments](/ewr/eng/cases/) provides a checked application.
 
-[Try iEWR](/ewr/eng/try/) · [Architecture](https://github.com/instantiatio/iEWR/blob/7.0.6/ARCHITECTURE.json) · [Full ConOps](https://github.com/instantiatio/iEWR/blob/7.0.6/docs/IEWR_CONOPS.md) · [Русский](/ewr/ru/how-iewr-works/)
+[Try iEWR](/ewr/eng/try/) · [Architecture](https://github.com/instantiatio/iEWR/blob/7.0.8/ARCHITECTURE.json) · [Full ConOps](https://github.com/instantiatio/iEWR/blob/7.0.8/docs/IEWR_CONOPS.md) · [Русский](/ewr/ru/how-iewr-works/)

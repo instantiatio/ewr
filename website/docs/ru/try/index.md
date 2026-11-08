@@ -2,7 +2,7 @@
 
 ## Вкратце {#quick-start}
 
-1. [Скачайте iEWR 7.0.6](https://github.com/instantiatio/iEWR/releases/download/7.0.6/iEWR-7.0.6-Eternal-Alpha.zip) и распакуйте архив.
+1. [Скачайте iEWR 7.0.8](https://github.com/instantiatio/iEWR/releases/download/7.0.8/iEWR-7.0.8-Eternal-Alpha.zip) и распакуйте архив.
 2. Откройте папку с `AGENTS.md` как проект в Codex.
 3. В новом чате опишите задачу или спросите, с чего начать.
 4. Проверьте результат. Обсудите правки и следующий шаг.
@@ -11,9 +11,9 @@
 
 ## Скачать и открыть проект {#download}
 
-[Скачать ZIP iEWR 7.0.6 Eternal Alpha](https://github.com/instantiatio/iEWR/releases/download/7.0.6/iEWR-7.0.6-Eternal-Alpha.zip) · [Релиз и контрольная сумма](https://github.com/instantiatio/iEWR/releases/tag/7.0.6)
+[Скачать ZIP iEWR 7.0.8 Eternal Alpha](https://github.com/instantiatio/iEWR/releases/download/7.0.8/iEWR-7.0.8-Eternal-Alpha.zip) · [Релиз](https://github.com/instantiatio/iEWR/releases/tag/7.0.8) · [Контрольная сумма SHA-256](https://github.com/instantiatio/iEWR/releases/download/7.0.8/iEWR-7.0.8-Eternal-Alpha.zip.sha256)
 
-Распакуйте архив в отдельную папку для вашего проекта. Её можно переименовать по названию проекта. В корне должны находиться `AGENTS.md`, `START.txt`, `methods/` и `project/`.
+Распакуйте архив. Папку `iEWR-7.0.8-Eternal-Alpha` можно переименовать по названию проекта. В её корне находятся `README.md`, `AGENTS.md`, `methods/` и `project/`.
 
 Откройте **эту папку как проект в Codex** и начните в ней новый чат. `AGENTS.md` — точка входа, связывающая агента с правилами и средствами iEWR.
 

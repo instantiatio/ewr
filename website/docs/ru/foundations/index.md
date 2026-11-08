@@ -9,6 +9,6 @@
 - [FPF, Dynamic Method Generation и MethodPack](/ewr/ru/foundations/methods/) — получение методов и сохранение полезного опыта.
 - [Зачем Codex нужен EWR](/ewr/ru/foundations/why-codex-needs-iewr/) — как EWR помогает организовать работу агента с опорой на методы и контекст проекта.
 
-Конкретная конфигурация 7.0.6 описана в разделе [«Как устроена iEWR»](/ewr/ru/how-iewr-works/).
+Конкретная конфигурация 7.0.8 описана в разделе [«Как устроена iEWR»](/ewr/ru/how-iewr-works/).
 
 [Главная](/ewr/ru/) · [English](/ewr/eng/foundations/)
