@@ -16,6 +16,7 @@ nav:
   - Applications: applications/index.md
   - Cases & Experiments:
       - cases/index.md
+      - Recursive System Formation: cases/recursive-system-formation/index.md
       - GEO CRM: cases/geo-crm/index.md
       - Instantiatio website: cases/instantiatio-website/index.md
       - Quotation expiry: cases/quotation-expiry/index.md
