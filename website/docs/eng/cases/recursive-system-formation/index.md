@@ -2,7 +2,9 @@
 
 ## In brief
 
-**Can an engineering environment develop a new version of itself, change its own architecture, and continue the work on the new foundation?** We tested this with iEWR.
+**Can an engineering environment develop a new version of itself, change its own architecture, and continue the work on the new foundation?** For iEWR, this is standard practice.
+
+Self-development in iEWR starts with a human assignment. This case follows one transition to a new architecture and the work that continued in a separate project.
 
 In the first project folder, initially set up with iEWR 6.0.8, AI organized the development of a new architecture, from research and prototypes through verification and the publication of versions 7.0.0–7.0.6 on GitHub. During development, the project itself moved to the new architecture.
 
@@ -116,7 +118,7 @@ This raises a question: **how much of an agent’s work does the human need to d
 
 iEWR explores an architecture in which the human defines the intent, value, and significant constraints. AI determines the work needed, chooses methods, organizes execution, and checks the result.
 
-In this experiment, the approach also supported changes to the engineering environment itself. AI continued to handle much of the coordination among agents. This lets the engineer focus on what system to build, why it is needed, and how well the result fits the original intent.
+In this case, AI used the same approach to change iEWR itself and handled much of the coordination among agents. This lets the engineer focus on what system to build, why it is needed, and how well the result fits the original intent.
 
 **“Stop managing AI — take charge of the outcome!”**
 
