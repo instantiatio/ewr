@@ -6,9 +6,9 @@ hide:
 
 # AI-native-first engineering
 
-Instantiatio is a research programme on AI-native-first work. People set goals, judge value, and accept results.
+**Instantiatio** is a research programme on AI-native-first work. People set goals, judge value, and accept results.
 
-Instantiatio Engineering Work Runtime (iEWR) is an agent-native application for Codex and other compatible environments.
+**Instantiatio Engineering Work Runtime (iEWR)** is an agent-native application for Codex and other compatible environments.
 
 iEWR frees you from micromanaging AI. It organizes engineering work independently, drawing on professional methods.
 
