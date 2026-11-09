@@ -6,14 +6,13 @@ hide:
 
 # AI-native-first engineering
 
-Stop managing AI — take charge of the outcome!
-{: .hero-slogan }
-
 **Instantiatio** is a research programme on AI-native-first work. People set goals, assess value, and make key decisions.
 
 **Instantiatio Engineering Work Runtime (iEWR)** is an agent-native application for Codex and other compatible environments.
 
 iEWR independently organizes, carries out, and checks the work within the scope you authorize.
+
+Stop managing AI — take charge of the outcome!
 
 [Try iEWR](/ewr/eng/try/){ .md-button .md-button--primary } · [Download 7.0.8 Eternal Alpha](https://github.com/instantiatio/iEWR/releases/download/7.0.8/iEWR-7.0.8-Eternal-Alpha.zip)
 

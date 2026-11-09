@@ -6,14 +6,13 @@ hide:
 
 # AI-native-first инженерия
 
-Хватит управлять AI — управляйте результатом!
-{: .hero-slogan }
-
 **Instantiatio** — исследовательская программа AI-native-first. Человек задаёт цели, оценивает ценность и принимает ключевые решения.
 
 **Instantiatio Engineering Work Runtime (iEWR)** — агентное приложение для Codex и других совместимых сред.
 
 iEWR самостоятельно организует, выполняет и проверяет работу в границах предоставленных полномочий.
+
+Хватит управлять AI — управляйте результатом!
 
 [Попробовать iEWR](/ewr/ru/try/){ .md-button .md-button--primary } · [Скачать 7.0.8 Eternal Alpha](https://github.com/instantiatio/iEWR/releases/download/7.0.8/iEWR-7.0.8-Eternal-Alpha.zip)
 
