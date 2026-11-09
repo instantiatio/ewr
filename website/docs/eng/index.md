@@ -10,7 +10,7 @@ hide:
 
 **Instantiatio Engineering Work Runtime (iEWR)** is an agent-native application for Codex and other compatible environments.
 
-iEWR frees you from micromanaging AI. It organizes engineering work independently, drawing on professional methods.
+iEWR organizes engineering work independently and checks the results. You set the goals, make key decisions, and evaluate what it delivers.
 
 Stop managing AI — take charge of the outcome!
 
