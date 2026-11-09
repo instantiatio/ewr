@@ -8,7 +8,7 @@ Self-development in iEWR starts with a human assignment. This case follows one t
 
 In the first project folder, initially set up with iEWR 6.0.8, AI organized the development of a new architecture, from research and prototypes through verification and the publication of versions 7.0.0–7.0.6 on GitHub. During development, the project itself moved to the new architecture.
 
-We then downloaded the published iEWR 7.0.6 release from GitHub and set it up in a **separate project folder**. AI reviewed the project context in the materials it received, continued the engineering work, prepared a local 7.0.7, and published 7.0.8 on GitHub.
+We then downloaded the published iEWR 7.0.6 release from GitHub and set it up in a **separate project folder**. Working in self-development mode, AI took the proposed improvements as a starting point, created a local version 7.0.7, and published 7.0.8 on GitHub.
 
 **The main result was continuity of self-development across an architecture change.** The engineering environment became the object of its own engineering work and retained the ability to organize that work after the transition. This is a practical instance of the architectural principle **Recursive System Formation (RSF)**.
 
