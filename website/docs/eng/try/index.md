@@ -31,7 +31,20 @@ If you already know the result you need, assign the work directly:
 
 > Review these materials and compare the possible solutions. Show the grounds for your conclusions and the questions that still need answering.
 
-Ask “What can you do?”, “How should I work with you?”, or request an explanation as you go. This is an ordinary conversation; no special commands are needed.
+## Ask iEWR about your task {#ask-iewr}
+
+Describe what you want to achieve and ask how iEWR can help with that specific task. One question is enough. No special commands are needed.
+
+- **Find out what you can delegate.** “Here’s the result I want. Which parts of this project can you take on? What materials or decisions will you need from me?”
+- **Choose a method.** “Which method from FPF or MethodPack would help with my task? Explain in plain language what it would help us find out or do and why you’d suggest it now.”
+- **Find a way forward when there’s no ready-made method.** “If iEWR has no suitable method, how would you find or develop one? How would you check that it fits the task?”
+- **Agree on how to check the result.** “How will we know whether the result serves my goal? Which checks can you run yourself, and what should I assess?”
+
+For example, you could follow up on the workshop website idea:
+
+> I want to build a website for the workshop. What method would help us figure out what customers need to do on the site and check that before development?
+
+If the method sounds right, you can follow up with “Apply it to my task and show how it informed the decision.”
 
 ## What happens next {#work}
 
