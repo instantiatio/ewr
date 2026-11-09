@@ -16,7 +16,7 @@ The conceptual materials come from the Instantiatio programme’s research texts
 
 iEWR is developed by **Instantiatio EWR Contributors**; contributor credits and source provenance are preserved in the repository.
 
-**First Principles Framework (FPF) is by Anatoly Levenchuk**, with original sources and author notices retained in the distribution.
+**Anatoly Levenchuk** is the academic director of the Engineering Managers’ Workshop, an associate professor at MIPT, and the research director of INCOSE’s Russian chapter. He has written numerous books and textbooks and created the First Principles Framework (FPF) library for AI-native engineering and management. The distribution retains the original source materials and attribution notices. [Personal website](https://ailev.ru/)
 
 Applied-method sources and their authors are recorded in [ORIGINS.json](https://github.com/instantiatio/iEWR/blob/7.0.8/ORIGINS.json) and [method source notices](https://github.com/instantiatio/iEWR/blob/7.0.8/docs/METHOD_SOURCE_NOTICES.md).
 
