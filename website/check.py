@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent
 BASE = 'https://instantiatio.github.io/ewr/'
 PATHS = ('', 'try/', 'try/advanced/', 'applications/', 'cases/', 'cases/recursive-system-formation/',
          'cases/geo-crm/',
-         'cases/instantiatio-website/', 'cases/quotation-expiry/', 'foundations/',
+         'cases/instantiatio-website/', 'foundations/',
          'foundations/instantiatio/', 'foundations/ai-native-first/',
          'foundations/system-formation/', 'foundations/ewr/',
          'foundations/methods/', 'foundations/why-codex-needs-iewr/', 'how-iewr-works/', 'about/')

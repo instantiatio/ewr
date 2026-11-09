@@ -20,10 +20,4 @@ The project owner set the task and chose the visual style. The agent in iEWR bui
 
 [Read the website case study](/ewr/eng/cases/instantiatio-website/).
 
-## From a business rule to a checked tool
-
-A short assignment to check sales quotation expiry dates. In a fresh iEWR 7.0.6 workspace, the agent independently produced a program, five tests, a processed CSV, and run instructions. Checks covered the final valid day, invalid dates, and preservation of input files.
-
-[Read the case and inspect the checks](/ewr/eng/cases/quotation-expiry/).
-
 [Try iEWR](/ewr/eng/try/) · [How iEWR works](/ewr/eng/how-iewr-works/) · [Русский](/ewr/ru/cases/)
