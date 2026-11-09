@@ -4,7 +4,7 @@
 
 1. [Download iEWR 7.0.8](https://github.com/instantiatio/iEWR/releases/download/7.0.8/iEWR-7.0.8-Eternal-Alpha.zip) and extract the archive.
 2. Open the folder containing `AGENTS.md` as a project in Codex.
-3. In a new chat, describe your task or ask where to start.
+3. In a new chat, describe your task or [ask where to start](#ask-iewr).
 4. Check the result. Discuss revisions and the next step.
 
 Learn iEWR through a task of your own. You do not need to study its internals first; the details below help you get started.
@@ -31,7 +31,7 @@ If you already know the result you need, assign the work directly:
 
 > Review these materials and compare the possible solutions. Show the grounds for your conclusions and the questions that still need answering.
 
-## Ask iEWR about your task {#ask-iewr}
+## Ask about your task {#ask-iewr}
 
 Describe what you want to achieve and ask how iEWR can help with that specific task. One question is enough. No special commands are needed.
 
