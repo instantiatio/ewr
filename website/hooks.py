@@ -33,6 +33,7 @@ def on_page_content(html, *, page, config, files):
     heading.append(engineering)
     if permalink:
         heading.append(permalink)
+    slogan = intro.select_one('p.hero-slogan').extract()
     paras = intro.find_all('p', recursive=False)
     actions = paras[-1].extract(); actions['class'] = ['hero-actions']
     # Keep the multi-paragraph application explanation in its existing column.
@@ -40,7 +41,7 @@ def on_page_content(html, *, page, config, files):
     label = ('Instantiatio / Research programme' if config.theme['language'] == 'en'
              else 'Instantiatio / Исследовательская программа')
     hero = f'''<section class="hero"><div class="container hero-inner">
-<p class="eyebrow">{label}</p><div class="hero-heading">{heading}</div>
+<p class="eyebrow">{label}</p><div class="hero-heading">{heading}{slogan}</div>
 <div class="hero-support"><div class="hero-copy">{body}</div>{actions}</div>
 </div></section>'''
     rest = BeautifulSoup(''.join(str(x) for x in nodes[cut:]), 'html.parser')
