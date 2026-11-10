@@ -12,7 +12,9 @@ nav:
   - Попробовать:
       - try/index.md
       - Для продвинутых: try/advanced/index.md
-  - Как работает: how-iewr-works/index.md
+  - Как работает:
+      - how-iewr-works/index.md
+      - Функциональная архитектура: how-iewr-works/architecture/index.md
   - Применение: applications/index.md
   - Кейсы и эксперименты:
       - cases/index.md

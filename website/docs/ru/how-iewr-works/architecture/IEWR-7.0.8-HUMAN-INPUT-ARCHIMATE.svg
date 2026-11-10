@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1456" height="662" viewBox="0 0 1456 662" role="img" aria-labelledby="title description">
+  <title id="title">Как iEWR реагирует на действия пользователя</title>
+  <desc id="description">HI уточняет поручение и решения, CF сверяет материалы и состояние проекта. При новом поручении SF определяет нужный результат и критерий. Если затронута текущая работа, агент пересматривает её затронутую часть через функции A0. При отсутствии нового поручения и влияния дополнительных действий не требуется.</desc>
+  <defs>
+    <marker id="trigger" viewBox="0 0 11 10" markerWidth="11" markerHeight="10" refX="11" refY="5" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 0L11 5L0 10Z" fill="#294b6f"/>
+    </marker>
+    <path id="process-icon" d="M0 4h10V0l8 7-8 7v-4H0z" fill="none" stroke="currentColor" stroke-width="1.4"/>
+  </defs>
+  <rect width="1456" height="662" fill="#fcfdfd"/>
+  <g font-family="Arial, sans-serif" fill="#1c2127">
+    <text x="44" y="39" font-size="14" font-weight="700" fill="#465362">iEWR 7.0.8  /  ArchiMate</text>
+    <text x="44" y="83" font-size="33" font-weight="700">Как iEWR реагирует на действия пользователя</text>
+    <path d="M44 110H1412" stroke="#c5cbd3"/>
+
+    <g fill="none" stroke="#294b6f" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#trigger)">
+      <path d="M327 302H359"/>
+      <path d="M697 270H732V186H1032"/>
+      <path d="M697 302H1032"/>
+      <path d="M697 334H732V418H1053"/>
+    </g>
+    <g fill="#294b6f" font-size="16" font-weight="700">
+      <text x="755" y="172">Есть новое поручение</text>
+      <text x="755" y="288">Текущая работа затронута</text>
+      <text x="755" y="384">
+        <tspan x="755">Нет нового поручения,</tspan>
+        <tspan x="755" dy="21">текущая работа не затронута</tspan>
+      </text>
+    </g>
+
+    <path d="M44 250L68 302L44 354H282A45 52 0 0 0 282 250Z" fill="#fbf7ef" stroke="#7e471f" stroke-width="1.7"/>
+    <text x="80" y="276" font-size="13" font-weight="700" fill="#7e471f">СОБЫТИЕ</text>
+    <text x="80" y="308" font-size="19" font-weight="700">
+      <tspan x="80">Агент заметил</tspan>
+      <tspan x="80" dy="25">действие пользователя</tspan>
+    </text>
+    <g fill="#465362" font-size="15">
+      <text x="44" y="386" font-weight="700">Например</text>
+      <text x="44" y="410">Сообщение в чате</text>
+      <text x="44" y="432">Файл в project/source/</text>
+      <text x="44" y="454">Новое решение или допуск</text>
+      <text x="44" y="476">Изменение в проекте</text>
+    </g>
+
+    <rect x="359" y="236" width="338" height="132" rx="8" fill="#f3f7fb" stroke="#184a90" stroke-width="1.7"/>
+    <use href="#process-icon" x="661" y="254" color="#184a90"/>
+    <text x="379" y="263" font-size="13" font-weight="700" fill="#184a90">ОЦЕНКА ВЛИЯНИЯ</text>
+    <text x="379" y="295" font-size="20" font-weight="700">Что изменилось для работы?</text>
+    <text x="379" y="323" font-size="15" font-weight="700" fill="#184a90">HI / A11</text>
+    <text x="448" y="323" font-size="15" fill="#465362">Уточнить поручение и решения</text>
+    <text x="379" y="345" font-size="15" font-weight="700" fill="#184a90">CF / A12</text>
+    <text x="448" y="345" font-size="15" fill="#465362">Сверить материалы и состояние</text>
+
+    <rect x="1032" y="134" width="380" height="104" rx="8" fill="#f3f7fb" stroke="#184a90" stroke-width="1.7"/>
+    <use href="#process-icon" x="1376" y="151" color="#184a90"/>
+    <text x="1051" y="160" font-size="13" font-weight="700" fill="#184a90">НОВАЯ РАБОТА</text>
+    <text x="1165" y="160" font-size="13" font-weight="700" fill="#184a90">SF / A13</text>
+    <text x="1051" y="190" font-size="19" font-weight="700">Определить результат и критерий</text>
+    <text x="1051" y="216" font-size="16" fill="#465362">Начать работу в согласованных границах</text>
+
+    <rect x="1032" y="250" width="380" height="104" rx="8" fill="#f3f7fb" stroke="#184a90" stroke-width="1.7"/>
+    <use href="#process-icon" x="1376" y="267" color="#184a90"/>
+    <text x="1051" y="276" font-size="13" font-weight="700" fill="#184a90">ПЕРЕСМОТР</text>
+    <a href="IEWR-7.0.8-METHOD-ARCHIMATE-A0-r5.svg" aria-label="Лист A0 · Как связаны функции iEWR">
+      <text x="1146" y="276" font-size="13" font-weight="700" fill="#184a90" text-decoration="underline">СМ. A0</text>
+    </a>
+    <text x="1051" y="306" font-size="20" font-weight="700">Пересмотреть затронутую часть</text>
+    <text x="1051" y="332" font-size="16" fill="#465362">Сохранить пригодные результаты</text>
+
+    <path d="M1032 366L1053 418L1032 470H1367A45 52 0 0 0 1367 366Z" fill="#f3f8f4" stroke="#2c6143" stroke-width="1.7"/>
+    <text x="1070" y="392" font-size="13" font-weight="700" fill="#2c6143">ОЦЕНКА ЗАВЕРШЕНА</text>
+    <text x="1070" y="421" font-size="20" font-weight="700">Действий не требуется</text>
+    <text x="1070" y="447" font-size="16" fill="#465362">Если работа идёт, она продолжается</text>
+
+    <path d="M44 513H1412" stroke="#c5cbd3"/>
+    <text x="44" y="542" font-size="15" font-weight="700">Куда ведёт пересмотр</text>
+    <text x="235" y="542" font-size="15" fill="#465362">Результат или критерий → SF   ·   Способ → DMG   ·   Допуск → EG   ·   Выполненные шаги → WEC   ·   Пригодность результата → RAF</text>
+    <text x="44" y="570" font-size="15" fill="#465362">Связанный сценарий</text>
+    <a href="IEWR-7.0.8-RAF-REVIEW-ARCHIMATE.svg">
+      <text x="235" y="570" font-size="15" fill="#184a90" text-decoration="underline">Пересмотр после сигнала RAF</text>
+    </a>
+    <text x="44" y="605" font-size="15" fill="#465362">Пользователь может дать новое поручение и одновременно изменить текущую работу.</text>
+    <path d="M44 633H94" fill="none" stroke="#294b6f" stroke-width="1.8" marker-end="url(#trigger)"/>
+    <text x="106" y="638" font-size="14" fill="#465362">
+      <tspan font-weight="700">Triggering</tspan>
+      <tspan dx="6">· Подпись указывает условие перехода</tspan>
+    </text>
+  </g>
+</svg>

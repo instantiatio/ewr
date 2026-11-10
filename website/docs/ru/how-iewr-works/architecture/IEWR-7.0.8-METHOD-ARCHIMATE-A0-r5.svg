@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1490" height="739" viewBox="0 0 1490 739" role="img" aria-labelledby="title">
+<title id="title">Как связаны функции iEWR · iEWR 7.0.8 · A0</title>
+<defs>
+<marker id="open-normal" viewBox="0 0 10 10" markerWidth="10" markerHeight="10" refX="9" refY="5" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1L9 5L1 9" fill="none" stroke="#345260" stroke-width="1.35"/></marker>
+<marker id="filled-normal" viewBox="0 0 10 10" markerWidth="10" markerHeight="10" refX="9" refY="5" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#345260" stroke="#345260" stroke-width="1.35"/></marker>
+<marker id="open-return" viewBox="0 0 10 10" markerWidth="10" markerHeight="10" refX="9" refY="5" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1L9 5L1 9" fill="none" stroke="#8a522b" stroke-width="1.35"/></marker>
+<marker id="filled-return" viewBox="0 0 10 10" markerWidth="10" markerHeight="10" refX="9" refY="5" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8a522b" stroke="#8a522b" stroke-width="1.35"/></marker>
+</defs>
+<rect width="1490" height="739" fill="#fbfcfd"/>
+<path d="M36 80H1454" stroke="#d7e2e7"/>
+<g font-family="system-ui,-apple-system,Arial,sans-serif">
+<g data-element="A1" data-kind="function"><rect x="42" y="259" width="220" height="97" rx="7" fill="#ebf2f7" stroke="#4a7087" stroke-width="1.6"/>
+<path d="M230 272l7 6-7 6h7l7-6-7-6z" fill="none" stroke="#4a7087" stroke-width="1.25"/>
+</g>
+<g data-element="DMG" data-kind="function"><rect x="333" y="259" width="220" height="97" rx="7" fill="#edf5ef" stroke="#567a63" stroke-width="1.6"/>
+<path d="M521 272l7 6-7 6h7l7-6-7-6z" fill="none" stroke="#567a63" stroke-width="1.25"/>
+</g>
+<g data-element="EG" data-kind="function"><rect x="624" y="259" width="220" height="97" rx="7" fill="#f7f0e5" stroke="#866a46" stroke-width="1.6"/>
+<path d="M812 272l7 6-7 6h7l7-6-7-6z" fill="none" stroke="#866a46" stroke-width="1.25"/>
+</g>
+<g data-element="WEC" data-kind="function"><rect x="915" y="259" width="220" height="97" rx="7" fill="#ebf2f7" stroke="#4a7087" stroke-width="1.6"/>
+<path d="M1103 272l7 6-7 6h7l7-6-7-6z" fill="none" stroke="#4a7087" stroke-width="1.25"/>
+</g>
+<g data-element="RAF" data-kind="function"><rect x="1206" y="259" width="220" height="97" rx="7" fill="#ebf2f7" stroke="#4a7087" stroke-width="1.6"/>
+<path d="M1394 272l7 6-7 6h7l7-6-7-6z" fill="none" stroke="#4a7087" stroke-width="1.25"/>
+</g>
+<path d="M262 305 L333 305" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="J03a" data-source="A1" data-target="DMG" data-kind="flow" d="M262 305 L333 305" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#filled-normal)"/>
+<path d="M553 305 L624 305" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="J04a" data-source="DMG" data-target="EG" data-kind="flow" d="M553 305 L624 305" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#filled-normal)"/>
+<path d="M844 305 L915 305" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="J05" data-source="EG" data-target="WEC" data-kind="flow" d="M844 305 L915 305" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#filled-normal)"/>
+<path d="M1135 305 L1206 305" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="J06a" data-source="WEC" data-target="RAF" data-kind="flow" d="M1135 305 L1206 305" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#filled-normal)"/>
+<path d="M91 259 L91 109 L1375 109 L1375 259" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="J03b" data-source="A1" data-target="RAF" data-kind="flow" d="M91 259 L91 109 L1375 109 L1375 259" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#filled-normal)"/>
+<path d="M160 259 L160 145 L703 145 L703 259" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="J01" data-source="A1" data-target="EG" data-kind="flow" d="M160 259 L160 145 L703 145 L703 259" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#filled-normal)"/>
+<path d="M432 259 L432 179 L995 179 L995 259" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="J04b" data-source="DMG" data-target="WEC" data-kind="flow" d="M432 259 L432 179 L995 179 L995 259" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#filled-normal)"/>
+<path d="M1313 356 L1313 403 L1054 403 L1054 356" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="J07w" data-source="RAF" data-target="WEC" data-kind="flow" d="M1313 356 L1313 403 L1054 403 L1054 356" fill="none" stroke="#8a522b" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#filled-return)"/>
+<path d="M1353 356 L1353 442 L456 442 L456 356" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="J07m" data-source="RAF" data-target="DMG" data-kind="flow" d="M1353 356 L1353 442 L456 442 L456 356" fill="none" stroke="#8a522b" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#filled-return)"/>
+<path d="M1406 356 L1406 486 L156 486 L156 356" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="J07a" data-source="RAF" data-target="A1" data-kind="flow" d="M1406 356 L1406 486 L156 486 L156 356" fill="none" stroke="#8a522b" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#filled-return)"/>
+<path d="M1121 356 L1121 527 L88 527 L88 356" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="J06b" data-source="WEC" data-target="A1" data-kind="flow" d="M1121 356 L1121 527 L88 527 L88 356" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#filled-normal)"/>
+<rect x="36" y="564" width="1418" height="151" rx="6" fill="#f1f5f7" stroke="#d7e2e7"/>
+<text x="36" y="31" font-size="13" font-weight="700" text-anchor="start" fill="#4c6573"><tspan x="36" dy="0">iEWR 7.0.8  /  ARCHIMATE  /  A0</tspan></text>
+<text x="36" y="64" font-size="26" font-weight="720" text-anchor="start" fill="#172d38"><tspan x="36" dy="0">Как связаны функции iEWR</tspan></text>
+<text x="57" y="282" font-size="13" font-weight="720" text-anchor="start" fill="#4a7087"><tspan x="57" dy="0">A1 · HI, CF, SF</tspan></text>
+<text x="57" y="307" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="57" dy="0">Определить основания</tspan><tspan x="57" dy="21">и нужный вклад</tspan></text>
+<text x="348" y="282" font-size="13" font-weight="720" text-anchor="start" fill="#567a63"><tspan x="348" dy="0">A2 · DMG</tspan></text>
+<text x="348" y="307" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="348" dy="0">Получить</tspan><tspan x="348" dy="21">пригодный способ</tspan></text>
+<text x="639" y="282" font-size="13" font-weight="720" text-anchor="start" fill="#866a46"><tspan x="639" dy="0">A3 · EG</tspan></text>
+<text x="639" y="307" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="639" dy="0">Проверить допуск</tspan><tspan x="639" dy="21">к действию</tspan></text>
+<text x="930" y="282" font-size="13" font-weight="720" text-anchor="start" fill="#4a7087"><tspan x="930" dy="0">A4 · WEC</tspan></text>
+<text x="930" y="307" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="930" dy="0">Выполнить</tspan><tspan x="930" dy="21">допущенную работу</tspan></text>
+<text x="1221" y="282" font-size="13" font-weight="720" text-anchor="start" fill="#4a7087"><tspan x="1221" dy="0">A5 · RAF</tspan></text>
+<text x="1221" y="307" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="1221" dy="0">Оценить пригодность</tspan><tspan x="1221" dy="21">результата</tspan></text>
+<text x="297" y="257" font-size="13" font-weight="600" text-anchor="middle" fill="#345260" paint-order="stroke fill" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"><tspan x="297" dy="0">J03</tspan><tspan x="297" dy="16">Вклад</tspan><tspan x="297" dy="16">и условия</tspan></text>
+<text x="588" y="257" font-size="13" font-weight="600" text-anchor="middle" fill="#345260" paint-order="stroke fill" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"><tspan x="588" dy="0">J04</tspan><tspan x="588" dy="16">Способ</tspan><tspan x="588" dy="16">и условия</tspan></text>
+<text x="879" y="273" font-size="13" font-weight="600" text-anchor="middle" fill="#345260" paint-order="stroke fill" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"><tspan x="879" dy="0">J05</tspan><tspan x="879" dy="16">Допуск</tspan></text>
+<text x="1170" y="257" font-size="13" font-weight="600" text-anchor="middle" fill="#345260" paint-order="stroke fill" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"><tspan x="1170" dy="0">J06</tspan><tspan x="1170" dy="16">Результат</tspan><tspan x="1170" dy="16">попытки</tspan></text>
+<text x="1005" y="101" font-size="13" font-weight="600" text-anchor="middle" fill="#345260" paint-order="stroke fill" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"><tspan x="1005" dy="0">J03 · Критерий пригодности</tspan></text>
+<text x="400" y="137" font-size="13" font-weight="600" text-anchor="middle" fill="#345260" paint-order="stroke fill" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"><tspan x="400" dy="0">J01 · Поручение и решения</tspan></text>
+<text x="802" y="171" font-size="13" font-weight="600" text-anchor="middle" fill="#345260" paint-order="stroke fill" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"><tspan x="802" dy="0">J04 · Способ и условия</tspan></text>
+<text x="1183" y="394" font-size="13" font-weight="600" text-anchor="middle" fill="#8a522b" paint-order="stroke fill" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"><tspan x="1183" dy="0">Пересмотр выполнения</tspan></text>
+<text x="756" y="434" font-size="13" font-weight="600" text-anchor="middle" fill="#8a522b" paint-order="stroke fill" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"><tspan x="756" dy="0">J07 · Дефект или новая предпосылка</tspan></text>
+<text x="565" y="478" font-size="13" font-weight="600" text-anchor="middle" fill="#8a522b" paint-order="stroke fill" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"><tspan x="565" dy="0">Вывод и границы затронутых результатов</tspan></text>
+<text x="399" y="519" font-size="13" font-weight="600" text-anchor="middle" fill="#345260" paint-order="stroke fill" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"><tspan x="399" dy="0">J06 · Наблюдения о попытке</tspan></text>
+<text x="53" y="587" font-size="14" font-weight="510" text-anchor="start" fill="#4c6573"><tspan x="53" dy="0">A1 · HI — Human Interaction · CF — Context Formation · SF — System Formation</tspan><tspan x="53" dy="22">A2 · DMG — Dynamic Method Generation   |   A3 · EG — Execution Governance</tspan><tspan x="53" dy="22">A4 · WEC — Work Execution &amp; Continuation   |   A5 · RAF — Result Assurance &amp; Feedback</tspan><tspan x="53" dy="22">J08 · CF, SF, DMG, EG, WEC и RAF передают HI результат, варианты для выбора или точный пробел.</tspan><tspan x="53" dy="22">J09 · HI передаёт решение человека с его условиями и границами в SF, EG и WEC. CF и WEC используют сохранённые основания.</tspan><tspan x="53" dy="22">Журнал фиксирует фактическое применение FPF или MP и наблюдаемые исходы. MethodPack хранит способы для повторного использования.</tspan></text>
+</g>
+</svg>
