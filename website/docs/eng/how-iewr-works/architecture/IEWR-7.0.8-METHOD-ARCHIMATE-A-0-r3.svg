@@ -1,0 +1,79 @@
+<svg style="display:block;max-width:100%;height:auto;margin-inline:auto" xmlns="http://www.w3.org/2000/svg" width="1420" height="638" viewBox="0 0 1420 638" role="img" aria-labelledby="title">
+<title id="title">The iEWR boundary · iEWR 7.0.8 · A-0</title>
+<defs>
+<marker id="open-normal" viewBox="0 0 10 10" markerWidth="10" markerHeight="10" refX="9" refY="5" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1L9 5L1 9" fill="none" stroke="#345260" stroke-width="1.35"/></marker>
+<marker id="filled-normal" viewBox="0 0 10 10" markerWidth="10" markerHeight="10" refX="9" refY="5" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#345260" stroke="#345260" stroke-width="1.35"/></marker>
+<marker id="open-return" viewBox="0 0 10 10" markerWidth="10" markerHeight="10" refX="9" refY="5" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1L9 5L1 9" fill="none" stroke="#8a522b" stroke-width="1.35"/></marker>
+<marker id="filled-return" viewBox="0 0 10 10" markerWidth="10" markerHeight="10" refX="9" refY="5" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8a522b" stroke="#8a522b" stroke-width="1.35"/></marker>
+</defs>
+<rect width="1420" height="638" fill="#fbfcfd"/>
+<path d="M36 80H1384" stroke="#d7e2e7"/>
+<g font-family="system-ui,-apple-system,Arial,sans-serif">
+<g data-element="work" data-kind="function"><rect x="508" y="247" width="380" height="108" rx="7" fill="#ebf2f7" stroke="#4a7087" stroke-width="1.6"/>
+<path d="M856 260l7 6-7 6h7l7-6-7-6z" fill="none" stroke="#4a7087" stroke-width="1.25"/>
+</g>
+<g data-element="assignment" data-kind="object"><rect x="44" y="145" width="287" height="66" rx="0" fill="#f4f7f8" stroke="#647c88" stroke-width="1.6"/>
+<path d="M299 158h15v10h-15z M299 161h15" fill="none" stroke="#647c88" stroke-width="1.2"/>
+</g>
+<g data-element="delivery" data-kind="object"><rect x="44" y="394" width="287" height="66" rx="0" fill="#f4f7f8" stroke="#647c88" stroke-width="1.6"/>
+<path d="M299 407h15v10h-15z M299 410h15" fill="none" stroke="#647c88" stroke-width="1.2"/>
+</g>
+<g data-element="materials" data-kind="object"><rect x="1070" y="111" width="308" height="66" rx="0" fill="#f4f7f8" stroke="#647c88" stroke-width="1.6"/>
+<path d="M1346 124h15v10h-15z M1346 127h15" fill="none" stroke="#647c88" stroke-width="1.2"/>
+</g>
+<g data-element="continuation" data-kind="object"><rect x="552" y="111" width="292" height="66" rx="0" fill="#f4f7f8" stroke="#647c88" stroke-width="1.6"/>
+<path d="M812 124h15v10h-15z M812 127h15" fill="none" stroke="#647c88" stroke-width="1.2"/>
+</g>
+<g data-element="rules" data-kind="object"><rect x="1070" y="217" width="308" height="66" rx="0" fill="#f4f7f8" stroke="#647c88" stroke-width="1.6"/>
+<path d="M1346 230h15v10h-15z M1346 233h15" fill="none" stroke="#647c88" stroke-width="1.2"/>
+</g>
+<g data-element="mp" data-kind="object"><rect x="1070" y="323" width="308" height="66" rx="0" fill="#f4f7f8" stroke="#647c88" stroke-width="1.6"/>
+<path d="M1346 336h15v10h-15z M1346 339h15" fill="none" stroke="#647c88" stroke-width="1.2"/>
+</g>
+<g data-element="log" data-kind="object"><rect x="1070" y="429" width="308" height="66" rx="0" fill="#f4f7f8" stroke="#647c88" stroke-width="1.6"/>
+<path d="M1346 442h15v10h-15z M1346 445h15" fill="none" stroke="#647c88" stroke-width="1.2"/>
+</g>
+<g data-element="agent" data-kind="role"><rect x="432" y="477" width="220" height="68" rx="0" fill="#f7f0e5" stroke="#866a46" stroke-width="1.6"/>
+<path d="M624 492h12v8h-12a4 4 0 0 1 0-8z" fill="none" stroke="#866a46" stroke-width="1.25"/>
+</g>
+<g data-element="ade" data-kind="service"><rect x="729" y="477" width="233" height="68" rx="7" fill="#ebf2f7" stroke="#4a7087" stroke-width="1.6"/>
+<rect x="930" y="492" width="16" height="8" rx="4" fill="none" stroke="#4a7087" stroke-width="1.25"/>
+</g>
+<path d="M508 275 L398 275 L398 177 L331 177" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="input" data-source="work" data-target="assignment" data-kind="access-read" d="M508 275 L398 275 L398 177 L331 177" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="2 4" marker-start="url(#open-normal)"/>
+<path d="M508 327 L398 327 L398 426 L331 426" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="output" data-source="work" data-target="delivery" data-kind="access-write" d="M508 327 L398 327 L398 426 L331 426" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="2 4" marker-end="url(#open-normal)"/>
+<path d="M888 265 L974 265 L974 144 L1070 144" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="materials" data-source="work" data-target="materials" data-kind="access-read" d="M888 265 L974 265 L974 144 L1070 144" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="2 4" marker-start="url(#open-normal)"/>
+<path d="M888 288 L1006 288 L1006 250 L1070 250" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="rules" data-source="work" data-target="rules" data-kind="access-read" d="M888 288 L1006 288 L1006 250 L1070 250" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="2 4" marker-start="url(#open-normal)"/>
+<path d="M888 313 L1006 313 L1006 356 L1070 356" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="mp" data-source="work" data-target="mp" data-kind="access-both" d="M888 313 L1006 313 L1006 356 L1070 356" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="2 4" marker-start="url(#open-normal)" marker-end="url(#open-normal)"/>
+<path d="M888 337 L974 337 L974 462 L1070 462" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="log" data-source="work" data-target="log" data-kind="access-both" d="M888 337 L974 337 L974 462 L1070 462" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="2 4" marker-start="url(#open-normal)" marker-end="url(#open-normal)"/>
+<path d="M698 247 L698 177" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="continuation" data-source="work" data-target="continuation" data-kind="access-both" d="M698 247 L698 177" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="2 4" marker-start="url(#open-normal)" marker-end="url(#open-normal)"/>
+<path d="M540 477 L540 355" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="assigned" data-source="agent" data-target="work" data-kind="assignment" d="M540 477 L540 355" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#filled-normal)"/>
+<circle cx="540" cy="477" r="4" fill="#345260"/>
+<path d="M847 477 L847 355" fill="none" stroke="#fbfcfd" stroke-width="5" stroke-linejoin="round"/>
+<path data-relation="provided" data-source="ade" data-target="work" data-kind="serving" d="M847 477 L847 355" fill="none" stroke="#345260" stroke-width="1.6" stroke-linejoin="round" marker-end="url(#open-normal)"/>
+<rect x="36" y="566" width="1348" height="63" rx="6" fill="#f1f5f7" stroke="#d7e2e7"/>
+<text x="36" y="31" font-size="13" font-weight="700" text-anchor="start" fill="#4c6573"><tspan x="36" dy="0">iEWR 7.0.8  /  ARCHIMATE  /  A-0</tspan></text>
+<text x="36" y="64" font-size="26" font-weight="720" text-anchor="start" fill="#172d38"><tspan x="36" dy="0">The iEWR boundary</tspan></text>
+<text x="523" y="270" font-size="13" font-weight="720" text-anchor="start" fill="#4a7087"><tspan x="523" dy="0">iEWR</tspan></text>
+<text x="523" y="295" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="523" dy="0">Organize engineering work</tspan><tspan x="523" dy="21">and produce a result fit for use</tspan></text>
+<text x="59" y="184.0" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="59" dy="0">Assignment, replies, mandate</tspan></text>
+<text x="59" y="423.0" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="59" dy="0">Result, conclusion or question</tspan><tspan x="59" dy="21">for the person</tspan></text>
+<text x="1085" y="140.0" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="1085" dy="0">Project inputs and</tspan><tspan x="1085" dy="21">reference materials</tspan></text>
+<text x="567" y="140.0" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="567" dy="0">Preserved grounds</tspan><tspan x="567" dy="21">for continuation</tspan></text>
+<text x="1085" y="256.0" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="1085" dy="0">iEWR rules and the original FPF</tspan></text>
+<text x="1085" y="362.0" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="1085" dy="0">MethodPack</tspan></text>
+<text x="1085" y="468.0" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="1085" dy="0">Method-use log</tspan></text>
+<text x="447" y="500" font-size="13" font-weight="720" text-anchor="start" fill="#866a46"><tspan x="447" dy="0">PERFORMER</tspan></text>
+<text x="447" y="535" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="447" dy="0">Agent</tspan></text>
+<text x="744" y="500" font-size="13" font-weight="720" text-anchor="start" fill="#4a7087"><tspan x="744" dy="0">ADE RESOURCES</tspan></text>
+<text x="744" y="535" font-size="16" font-weight="650" text-anchor="start" fill="#172d38"><tspan x="744" dy="0">Tools and access</tspan></text>
+<text x="53" y="589" font-size="14" font-weight="510" text-anchor="start" fill="#4c6573"><tspan x="53" dy="0">The agent acts within its mandate, rules and ADE limits. Changes to originals require a separate instruction.</tspan><tspan x="53" dy="22">The log records actual use of FPF or MethodPack. MethodPack is updated as needed.</tspan></text>
+</g>
+</svg>

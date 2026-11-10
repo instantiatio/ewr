@@ -1,0 +1,89 @@
+<svg style="display:block;max-width:100%;height:auto;margin-inline:auto" xmlns="http://www.w3.org/2000/svg" width="1456" height="662" viewBox="0 0 1456 662" role="img" aria-labelledby="title description">
+  <title id="title">How iEWR responds to user actions</title>
+  <desc id="description">HI clarifies the assignment and decisions, and CF checks project materials and state. For a new assignment, SF defines the required result and criterion. If ongoing work is affected, the agent revisits the affected part through the functions shown in A0. If there is no new assignment and ongoing work is unaffected, no further action is needed.</desc>
+  <defs>
+    <marker id="trigger" viewBox="0 0 11 10" markerWidth="11" markerHeight="10" refX="11" refY="5" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 0L11 5L0 10Z" fill="#294b6f"/>
+    </marker>
+    <path id="process-icon" d="M0 4h10V0l8 7-8 7v-4H0z" fill="none" stroke="currentColor" stroke-width="1.4"/>
+  </defs>
+  <rect width="1456" height="662" fill="#fcfdfd"/>
+  <g font-family="Arial, sans-serif" fill="#1c2127">
+    <text x="44" y="39" font-size="14" font-weight="700" fill="#465362">iEWR 7.0.8  /  ArchiMate</text>
+    <text x="44" y="83" font-size="33" font-weight="700">How iEWR responds to user actions</text>
+    <path d="M44 110H1412" stroke="#c5cbd3"/>
+
+    <g fill="none" stroke="#294b6f" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#trigger)">
+      <path d="M327 302H359"/>
+      <path d="M697 270H732V186H1032"/>
+      <path d="M697 302H1032"/>
+      <path d="M697 334H732V418H1053"/>
+    </g>
+    <g fill="#294b6f" font-size="16" font-weight="700">
+      <text x="755" y="172">New assignment</text>
+      <text x="755" y="288">Ongoing work is affected</text>
+      <text x="755" y="384">
+        <tspan x="755">No new assignment and</tspan>
+        <tspan x="755" dy="21">ongoing work is unaffected</tspan>
+      </text>
+    </g>
+
+    <path d="M44 250L68 302L44 354H282A45 52 0 0 0 282 250Z" fill="#fbf7ef" stroke="#7e471f" stroke-width="1.7"/>
+    <text x="80" y="276" font-size="13" font-weight="700" fill="#7e471f">EVENT</text>
+    <text x="80" y="308" font-size="19" font-weight="700">
+      <tspan x="80">Agent notices</tspan>
+      <tspan x="80" dy="25">a user action</tspan>
+    </text>
+    <g fill="#465362" font-size="15">
+      <text x="44" y="386" font-weight="700">Examples</text>
+      <text x="44" y="410">Chat message</text>
+      <text x="44" y="432">File in project/source/</text>
+      <text x="44" y="454">New decision or authorization</text>
+      <text x="44" y="476">Change in the project</text>
+    </g>
+
+    <rect x="359" y="236" width="338" height="132" rx="8" fill="#f3f7fb" stroke="#184a90" stroke-width="1.7"/>
+    <use href="#process-icon" x="661" y="254" color="#184a90"/>
+    <text x="379" y="263" font-size="13" font-weight="700" fill="#184a90">ASSESS IMPACT</text>
+    <text x="379" y="295" font-size="20" font-weight="700">What changed for the work?</text>
+    <text x="379" y="323" font-size="15" font-weight="700" fill="#184a90">HI / A11</text>
+    <text x="448" y="323" font-size="15" fill="#465362">Clarify assignment and decisions</text>
+    <text x="379" y="345" font-size="15" font-weight="700" fill="#184a90">CF / A12</text>
+    <text x="448" y="345" font-size="15" fill="#465362">Check materials and project state</text>
+
+    <rect x="1032" y="134" width="380" height="104" rx="8" fill="#f3f7fb" stroke="#184a90" stroke-width="1.7"/>
+    <use href="#process-icon" x="1376" y="151" color="#184a90"/>
+    <text x="1051" y="160" font-size="13" font-weight="700" fill="#184a90">NEW WORK</text>
+    <text x="1165" y="160" font-size="13" font-weight="700" fill="#184a90">SF / A13</text>
+    <text x="1051" y="190" font-size="19" font-weight="700">Define the result and criterion</text>
+    <text x="1051" y="216" font-size="16" fill="#465362">Start within the agreed bounds</text>
+
+    <rect x="1032" y="250" width="380" height="104" rx="8" fill="#f3f7fb" stroke="#184a90" stroke-width="1.7"/>
+    <use href="#process-icon" x="1376" y="267" color="#184a90"/>
+    <text x="1051" y="276" font-size="13" font-weight="700" fill="#184a90">REVISION</text>
+    <a href="IEWR-7.0.8-METHOD-ARCHIMATE-A0-r5.svg" aria-label="Sheet A0 · How iEWR functions connect">
+      <text x="1146" y="276" font-size="13" font-weight="700" fill="#184a90" text-decoration="underline">SEE A0</text>
+    </a>
+    <text x="1051" y="306" font-size="20" font-weight="700">Revisit the affected work</text>
+    <text x="1051" y="332" font-size="16" fill="#465362">Retain usable results</text>
+
+    <path d="M1032 366L1053 418L1032 470H1367A45 52 0 0 0 1367 366Z" fill="#f3f8f4" stroke="#2c6143" stroke-width="1.7"/>
+    <text x="1070" y="392" font-size="13" font-weight="700" fill="#2c6143">ASSESSMENT COMPLETE</text>
+    <text x="1070" y="421" font-size="20" font-weight="700">No action needed</text>
+    <text x="1070" y="447" font-size="16" fill="#465362">Ongoing work continues</text>
+
+    <path d="M44 513H1412" stroke="#c5cbd3"/>
+    <text x="44" y="542" font-size="15" font-weight="700">What to revisit</text>
+    <text x="235" y="542" font-size="15" fill="#465362">Result or criterion → SF   ·   Method → DMG   ·   Authorization → EG   ·   Completed steps → WEC   ·   Fitness for use → RAF</text>
+    <text x="44" y="570" font-size="15" fill="#465362">Related scenario</text>
+    <a href="IEWR-7.0.8-RAF-REVIEW-ARCHIMATE.svg">
+      <text x="235" y="570" font-size="15" fill="#184a90" text-decoration="underline">Reassessment after a RAF signal</text>
+    </a>
+    <text x="44" y="605" font-size="15" fill="#465362">A user action can introduce a new assignment and affect ongoing work at the same time.</text>
+    <path d="M44 633H94" fill="none" stroke="#294b6f" stroke-width="1.8" marker-end="url(#trigger)"/>
+    <text x="106" y="638" font-size="14" fill="#465362">
+      <tspan font-weight="700">Triggering</tspan>
+      <tspan dx="6">· The label states the condition for the transition</tspan>
+    </text>
+  </g>
+</svg>

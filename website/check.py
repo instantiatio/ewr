@@ -17,7 +17,8 @@ PATHS = ('', 'try/', 'try/advanced/', 'applications/', 'cases/', 'cases/recursiv
          'cases/instantiatio-website/', 'foundations/',
          'foundations/instantiatio/', 'foundations/ai-native-first/',
          'foundations/system-formation/', 'foundations/ewr/',
-         'foundations/methods/', 'foundations/why-codex-needs-iewr/', 'how-iewr-works/', 'about/')
+         'foundations/methods/', 'foundations/why-codex-needs-iewr/', 'how-iewr-works/',
+         'how-iewr-works/architecture/', 'about/')
 PRIVATE = re.compile(r'/Users/[^\s<]+|/home/[^\s<]+|/private/(?:tmp|var)/[^\s<]+'
                      r'|(?:github_pat_|ghp_|sk-proj-)[A-Za-z0-9_\-]+')
 

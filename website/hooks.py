@@ -81,7 +81,6 @@ def on_page_context(context, *, page, config, nav):
     local_config.extra['alternate'] = [
         dict(item, link=item['link'] + page.url)
         for item in config.extra['alternate']
-        if page.meta.get('translated', True) or item['lang'] == config.theme['language']
     ]
     context['config'] = local_config
     locale = 'eng' if config.theme['language'] == 'en' else 'ru'

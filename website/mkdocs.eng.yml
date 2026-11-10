@@ -12,7 +12,9 @@ nav:
   - Try:
       - try/index.md
       - Advanced use: try/advanced/index.md
-  - How it works: how-iewr-works/index.md
+  - How it works:
+      - how-iewr-works/index.md
+      - Functional architecture: how-iewr-works/architecture/index.md
   - Applications: applications/index.md
   - Cases & Experiments:
       - cases/index.md

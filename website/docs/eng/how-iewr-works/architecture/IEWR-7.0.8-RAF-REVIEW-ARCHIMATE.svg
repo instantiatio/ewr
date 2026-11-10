@@ -1,0 +1,48 @@
+<svg style="display:block;max-width:100%;height:auto;margin-inline:auto" xmlns="http://www.w3.org/2000/svg" width="1408" height="648" viewBox="0 0 1408 648" role="img" aria-labelledby="title desc">
+<title id="title">iEWR 7.0.8 · Reassessment after a RAF signal</title>
+<desc id="desc">A RAF event leads the agent to retain fit results and continue independent authorized work. DMG reviews the method for the affected step. WEC uses the existing authorization if it remains valid or obtains a decision from EG. If a condition is unmet, the dependent step waits.</desc>
+<defs>
+  <marker id="trigger" viewBox="0 0 11 10" markerWidth="11" markerHeight="10" refX="11" refY="5" markerUnits="userSpaceOnUse" orient="auto"><path d="M0 0L11 5L0 10Z" fill="#334d59"/></marker>
+</defs>
+<rect width="1408" height="648" fill="#fcfdfd"/>
+<g font-family="system-ui, -apple-system, Arial, sans-serif" fill="#172c36">
+<text x="35" y="37" fill="#547383" font-size="14" font-weight="680" text-anchor="start"><tspan x="35" dy="0">iEWR 7.0.8  /  ArchiMate</tspan></text>
+<text x="35" y="76" fill="#172c36" font-size="28" font-weight="720" text-anchor="start"><tspan x="35" dy="0">Reassessment after a RAF signal</tspan></text>
+<path d="M35 92H1373" fill="none" stroke="#d9e3e8"/>
+<path d="M35 251L62 304L35 357H217A45 53 0 0 0 217 251Z" fill="#f8efe0" stroke="#886840" stroke-width="1.7"/>
+<text x="80" y="278" fill="#886840" font-size="13" font-weight="700" text-anchor="start"><tspan x="80" dy="0">RAF · EVENT</tspan></text>
+<text x="80" y="309" fill="#172c36" font-size="16" font-weight="650" text-anchor="start"><tspan x="80" dy="0">A premise</tspan><tspan x="80" dy="23">has changed</tspan></text>
+<rect x="365" y="115" width="307" height="104" rx="8" fill="#edf5ef" stroke="#547966" stroke-width="1.7"/>
+<path d="M639 132h10v-4l8 7-8 7v-4h-10z" fill="none" stroke="#547966" stroke-width="1.25"/>
+<text x="381" y="140" fill="#547966" font-size="13" font-weight="700" text-anchor="start"><tspan x="381" dy="0">WEC · INDEPENDENT WORK</tspan></text>
+<text x="381" y="170" fill="#172c36" font-size="17" font-weight="650" text-anchor="start"><tspan x="381" dy="0">Retain usable results</tspan><tspan x="381" dy="24">Continue authorized steps</tspan></text>
+<rect x="365" y="328" width="307" height="110" rx="8" fill="#eef4f7" stroke="#527384" stroke-width="1.7"/>
+<path d="M639 345h10v-4l8 7-8 7v-4h-10z" fill="none" stroke="#527384" stroke-width="1.25"/>
+<text x="381" y="353" fill="#527384" font-size="13" font-weight="700" text-anchor="start"><tspan x="381" dy="0">DMG</tspan></text>
+<text x="381" y="383" fill="#172c36" font-size="17" font-weight="650" text-anchor="start"><tspan x="381" dy="0">Check the decisive condition</tspan><tspan x="381" dy="24">and review the method</tspan></text>
+<rect x="836" y="242" width="247" height="101" rx="8" fill="#eef4f7" stroke="#527384" stroke-width="1.7"/>
+<path d="M1050 259h10v-4l8 7-8 7v-4h-10z" fill="none" stroke="#527384" stroke-width="1.25"/>
+<text x="852" y="267" fill="#527384" font-size="13" font-weight="700" text-anchor="start"><tspan x="852" dy="0">EG</tspan></text>
+<text x="852" y="297" fill="#172c36" font-size="17" font-weight="650" text-anchor="start"><tspan x="852" dy="0">Recheck authorization</tspan><tspan x="852" dy="24">for the specific action</tspan></text>
+<rect x="1120" y="358" width="253" height="113" rx="8" fill="#eef4f7" stroke="#527384" stroke-width="1.7"/>
+<path d="M1340 375h10v-4l8 7-8 7v-4h-10z" fill="none" stroke="#527384" stroke-width="1.25"/>
+<text x="1136" y="383" fill="#527384" font-size="13" font-weight="700" text-anchor="start"><tspan x="1136" dy="0">WEC</tspan></text>
+<text x="1136" y="413" fill="#172c36" font-size="17" font-weight="650" text-anchor="start"><tspan x="1136" dy="0">Carry out the remaining</tspan><tspan x="1136" dy="24">authorized action</tspan></text>
+<path d="M163 251V167H365" fill="none" stroke="#334d59" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#trigger)"/>
+<text x="178" y="154" fill="#334d59" font-size="15" font-weight="600" text-anchor="start"><tspan x="178" dy="0">Unaffected work</tspan></text>
+<path d="M262 304H300V383H365" fill="none" stroke="#334d59" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#trigger)"/>
+<text x="320" y="410" fill="#334d59" font-size="14" font-weight="600" text-anchor="middle"><tspan x="320" dy="0">Affected</tspan><tspan x="320" dy="18">step</tspan></text>
+<path d="M672 355H745V290H836" fill="none" stroke="#334d59" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#trigger)"/>
+<text x="752" y="247" fill="#334d59" font-size="14" font-weight="600" text-anchor="middle"><tspan x="752" dy="0">Method is suitable,</tspan><tspan x="752" dy="19">recheck authorization</tspan></text>
+<path d="M672 410H1120" fill="none" stroke="#334d59" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#trigger)"/>
+<text x="894" y="398" fill="#334d59" font-size="15" font-weight="600" text-anchor="middle"><tspan x="894" dy="0">Method is suitable and authorization still holds</tspan></text>
+<path d="M1083 290H1247V358" fill="none" stroke="#334d59" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#trigger)"/>
+<text x="1247" y="278" fill="#334d59" font-size="15" font-weight="600" text-anchor="middle"><tspan x="1247" dy="0">Authorization confirmed</tspan></text>
+<rect x="365" y="505" width="1008" height="70" rx="7" fill="#f4f7f8" stroke="#d3dfe4"/>
+<text x="384" y="531" fill="#172c36" font-size="16" font-weight="650" text-anchor="start"><tspan x="384" dy="0">The dependent step waits if the method is inadequate or authorization is unconfirmed.</tspan></text>
+<text x="384" y="554" fill="#415d69" font-size="15" font-weight="500" text-anchor="start"><tspan x="384" dy="0">If the effect of the previous attempt is unknown, first check the state of that same attempt.</tspan></text>
+<path d="M35 604H1373" fill="none" stroke="#d9e3e8"/>
+<path d="M35 626H83" fill="none" stroke="#334d59" stroke-width="1.8" stroke-linejoin="round" marker-end="url(#trigger)"/>
+<text x="95" y="631" fill="#334d59" font-size="13" font-weight="650" text-anchor="start"><tspan x="95" dy="0">Triggering</tspan></text>
+<text x="173" y="631" fill="#415d69" font-size="13" font-weight="500" text-anchor="start"><tspan x="173" dy="0">· The arrow label states when the transition occurs</tspan></text>
+</g></svg>

@@ -60,6 +60,12 @@ The architecture names seven connected functions:
 
 These functions are used according to the task. They are not seven mandatory stages or seven agents. Existing adequate decisions, methods, and results are reused. New information can change the next action.
 
+## Functional architecture diagram {#functional-architecture}
+
+Diagram A0 shows how the seven functions in iEWR 7.0.8 connect the assignment, method choice, execution, and result checks.
+
+[![A0. Connections between the seven iEWR functions](architecture/IEWR-7.0.8-METHOD-ARCHIMATE-A0-r5.svg){ width="480" } Explore the full iEWR architecture](architecture/index.md)
+
 ## Methods for the task
 
 For a new method choice, the agent checks for a sufficient FPF contribution, then the applied detail needed from MethodPack. DMG supplies what remains missing through adaptation or construction. Already established sufficient grounds are reused.
