@@ -24,7 +24,7 @@ A message, new file, or decision can introduce a new assignment, affect ongoing 
 
 ## Reassessment after a RAF signal
 
-If a check shows that a premise has changed, the agent checks whether the method still fits and rechecks authorization when needed. The affected step waits until the agent has a suitable method and valid authorization. Independent authorized work can continue in the meantime.
+**RAF (Result Assurance & Feedback)** assesses whether the result is fit for use and provides feedback. If RAF finds that a premise has changed, the agent checks whether the chosen method still fits and rechecks authorization when needed. The affected step waits until the agent has a suitable method and valid authorization. Independent authorized work can continue in the meantime.
 
 [![RAF reassessment scenario. Independent authorized work continues while the agent checks the method and authorization for the affected step.](IEWR-7.0.8-RAF-REVIEW-ARCHIMATE.svg) Open the RAF reassessment scenario at full size](IEWR-7.0.8-RAF-REVIEW-ARCHIMATE.svg)
 
