@@ -2,7 +2,7 @@
 
 Two ArchiMate diagrams show the iEWR boundary and the connections between its functions. Two scenarios show how the agent responds to a user action or to a change identified while checking a result.
 
-[Open the full ArchiMate album (PDF, 14 pages, Russian edition)](/ewr/ru/how-iewr-works/architecture/iEWR-7.0.8-ArchiMate-Architecture.pdf)
+[Open the full ArchiMate album (PDF, 14 pages)](iEWR-7.0.8-ArchiMate-Architecture-EN.pdf)
 
 ## A−0 · The iEWR boundary
 
@@ -49,4 +49,4 @@ If a check shows that a premise has changed, the agent checks whether the method
 - A **dotted arrow (Access)** shows access to an object. An arrow toward the function means read access. An arrow toward the object means write access. Arrows in both directions mean read and write access.
 - A **solid arrow with a dot at its start (Assignment)** connects the performer to a function. A **solid arrow with an open arrowhead (Serving)** shows what provides the means to perform a function.
 
-[Open the full ArchiMate album (PDF, 14 pages, Russian edition)](/ewr/ru/how-iewr-works/architecture/iEWR-7.0.8-ArchiMate-Architecture.pdf) · [Return to How iEWR works](../index.md#functional-architecture)
+[Open the full ArchiMate album (PDF, 14 pages)](iEWR-7.0.8-ArchiMate-Architecture-EN.pdf) · [Return to How iEWR works](../index.md#functional-architecture)
