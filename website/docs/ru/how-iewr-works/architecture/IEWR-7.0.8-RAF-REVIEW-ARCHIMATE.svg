@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1408" height="648" viewBox="0 0 1408 648" role="img" aria-labelledby="title desc">
+<svg style="display:block;max-width:100%;height:auto;margin-inline:auto" xmlns="http://www.w3.org/2000/svg" width="1408" height="648" viewBox="0 0 1408 648" role="img" aria-labelledby="title desc">
 <title id="title">iEWR 7.0.8 · Пересмотр после сигнала RAF</title>
 <desc id="desc">Событие RAF ведёт к сохранению пригодных результатов и продолжению независимой разрешённой работы. Для затронутого шага DMG пересматривает способ. WEC использует прежний допуск, если он действует, или получает решение EG. При пробеле зависимый шаг ждёт.</desc>
 <defs>
