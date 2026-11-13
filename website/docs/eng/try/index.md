@@ -101,7 +101,7 @@ Important! Automated analysis can reduce risk, but it does not guarantee safety.
 
 ## Next {#next}
 
-- [Advanced use](/ewr/eng/try/advanced/) — work with the system as a whole, delegate complex results, and assess fitness for use.
+- [Skills for Engineers and Team Leads](/ewr/eng/try/advanced/) — work with the system as a whole, delegate complex results, and assess fitness for use.
 - [Applications](/ewr/eng/applications/) and [cases](/ewr/eng/cases/) — possible tasks and work already performed.
 - [How iEWR works](/ewr/eng/how-iewr-works/) — the environment's organization, whenever you want to go deeper.
 

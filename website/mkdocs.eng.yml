@@ -11,7 +11,7 @@ nav:
   - Home: index.md
   - Try:
       - try/index.md
-      - Advanced use: try/advanced/index.md
+      - Skills for Engineers and Team Leads: try/advanced/index.md
   - How it works:
       - how-iewr-works/index.md
       - Functional architecture: how-iewr-works/architecture/index.md

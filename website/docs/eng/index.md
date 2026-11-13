@@ -10,7 +10,7 @@ hide:
 
 **Instantiatio Engineering Work Runtime (iEWR)** is an agent-native application for Codex and other compatible environments.
 
-iEWR independently organizes, carries out, and checks the work within the scope of the assignment.
+iEWR independently organizes, carries out, and checks the work within the scope of the assignment.<sup class="hero-section-ref"><a href="#who-does-what" aria-label="Section 03. Who does what">03</a></sup>
 
 Stop managing AI — take charge of the outcome!
 
@@ -34,6 +34,16 @@ Project materials, decisions, results, checks, and unfinished work are kept in t
 **AI is not limited to the starting repertoire of methods.** It can find, adapt, or develop ways of doing the work and retain useful methods for later tasks.
 
 [Explore applications →](/ewr/eng/applications/){ .section-action }
+
+## Who does what {#who-does-what}
+
+You can ask iEWR to deliver a result or work alongside it to explore options, discuss methods, and take part in the work. You set the goals, make the key decisions, and judge whether the result fits your task.
+
+Within the scope of the assignment, iEWR determines what needs doing, chooses methods, organizes the work, and checks the result.
+
+Whether iEWR can complete a given task depends on the expertise, input data, tools, and authority available to it.
+
+[Working with iEWR: Skills for Engineers and Team Leads](/ewr/eng/try/advanced/) · [How iEWR works](/ewr/eng/how-iewr-works/)
 
 ## GEO CRM case study: sales, stock, and liquidity
 

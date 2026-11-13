@@ -197,3 +197,18 @@ label[role=button]:focus-visible { outline:3px solid #2879e7; outline-offset:5px
 /* The application explanation is one group in the existing hero grid. */
 .home-content .hero-application { min-width:0; }
 .home-content .hero-application p + p { margin-top:15px; }
+
+/* Inline cross-reference to the division of responsibilities. */
+.home-content .hero-section-ref {
+  margin-inline-start:.2em;
+  font-size:.65em;
+  line-height:0;
+  vertical-align:super;
+}
+.home-content .hero-section-ref a {
+  color:var(--ice);
+  text-decoration:underline;
+  text-underline-offset:.16em;
+}
+.home-content .hero-section-ref a:hover { color:white; }
+.home-content .hero-section-ref a:focus-visible { outline:2px solid var(--ice); outline-offset:3px; }
